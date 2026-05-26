@@ -1,0 +1,785 @@
+[
+  {
+    "id": "chamaedorea-elegans",
+    "commonNameZh": "袖珍椰子",
+    "commonNameEn": "Parlor Palm",
+    "scientificName": "Chamaedorea elegans",
+    "placementType": "桌上到小型落地盆栽",
+    "matureSize": "室內常見約 60 至 120 公分，生長慢",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "明亮散射光到中低光，避免強烈直射日光。",
+    "wateringFrequency": "約 7 至 10 天檢查一次，依盆土乾燥速度調整。",
+    "wateringMethod": "表土約 2 至 3 公分乾了再澆透，盆底流出水後倒掉積水。",
+    "humidity": "一般室內可接受，乾燥季節可提高周圍濕度。",
+    "temperature": "約 18 至 27°C，避免低溫冷風。",
+    "difficulty": "低",
+    "whyRecommended": "株型柔和、耐陰、成長慢，適合陽台空間有限或室內角落。",
+    "watchouts": "過度澆水容易爛根；若葉尖焦枯，先檢查水質、濕度與肥料濃度。",
+    "sourceNames": [
+      "ASPCA Cats Plant List",
+      "UF IFAS Chamaedorea elegans"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list",
+      "https://edis.ifas.ufl.edu/publication/FP123"
+    ]
+  },
+  {
+    "id": "chlorophytum-comosum",
+    "commonNameZh": "吊蘭",
+    "commonNameEn": "Spider Plant",
+    "scientificName": "Chlorophytum comosum",
+    "placementType": "桌上盆栽、層架、吊盆",
+    "matureSize": "葉叢約 30 至 60 公分寬，走莖會垂墜",
+    "catSafety": "ASPCA 列為對貓無毒。",
+    "light": "中到明亮散射光，斑葉品種光線太弱會退色。",
+    "wateringFrequency": "約每 5 至 10 天檢查一次。",
+    "wateringMethod": "表土乾後澆透；有肥厚根系，短暫忘記澆水通常可恢復。",
+    "humidity": "一般室內濕度可接受。",
+    "temperature": "約 16 至 27°C。",
+    "difficulty": "低",
+    "whyRecommended": "耐養、容易繁殖，適合新手與小空間。",
+    "watchouts": "葉尖焦枯常與水質、鹽分累積或過肥有關。",
+    "sourceNames": [
+      "ASPCA Spider Plant",
+      "Wisconsin Horticulture Spider Plant"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/spider-plant",
+      "https://hort.extension.wisc.edu/articles/spider-plant-chlorophytum-comosum/"
+    ]
+  },
+  {
+    "id": "nephrolepis-exaltata",
+    "commonNameZh": "波士頓腎蕨",
+    "commonNameEn": "Boston Fern",
+    "scientificName": "Nephrolepis exaltata",
+    "placementType": "桌上大型盆栽、吊盆、小型落地盆栽",
+    "matureSize": "室內常見約 45 至 90 公分寬，葉片拱垂",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "明亮散射光，避免強烈直射日光。",
+    "wateringFrequency": "約每 3 至 7 天檢查一次，夏季可能更頻繁。",
+    "wateringMethod": "介質保持均勻微濕但不積水；不建議長期乾透。",
+    "humidity": "偏高濕度較穩定，乾燥室內可搭配濕度盤或集中擺放植物。",
+    "temperature": "約 16 至 24°C，避免熱風與冷風直吹。",
+    "difficulty": "中",
+    "whyRecommended": "觀葉量感好，對貓低風險，適合想要柔軟綠量的人。",
+    "watchouts": "太乾會掉葉；若家裡很乾燥，需要比吊蘭更勤照顧。",
+    "sourceNames": [
+      "ASPCA Cats Plant List",
+      "Wisconsin Horticulture Boston Fern"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list",
+      "https://hort.extension.wisc.edu/articles/boston-fern-nephrolepis-exaltata-bostoniensis/"
+    ]
+  },
+  {
+    "id": "phalaenopsis",
+    "commonNameZh": "蝴蝶蘭",
+    "commonNameEn": "Moth Orchid",
+    "scientificName": "Phalaenopsis spp.",
+    "placementType": "桌上盆栽、窗邊層架",
+    "matureSize": "葉展常見約 25 至 50 公分，花梗會向上延伸",
+    "catSafety": "ASPCA 列為對貓無毒。",
+    "light": "明亮散射光，東向窗或有遮光的窗邊較合適。",
+    "wateringFrequency": "約每 7 至 10 天檢查一次，依水苔或樹皮乾燥速度調整。",
+    "wateringMethod": "根部介質接近乾再澆透，避免盆底積水；不要只噴葉子當作澆水。",
+    "humidity": "中等濕度即可，通風比悶濕更重要。",
+    "temperature": "約 18 至 29°C，夜間略涼有利開花。",
+    "difficulty": "中",
+    "whyRecommended": "開花觀賞性高，占地小，適合桌面或窗邊。",
+    "watchouts": "根部怕長期悶濕；透明盆可觀察根色與水分狀態。",
+    "sourceNames": [
+      "ASPCA Moth Orchid",
+      "University of Maryland Phalaenopsis Care"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/moth-orchid",
+      "https://extension.umd.edu/resource/care-phalaenopsis-orchids-moth-orchids/"
+    ]
+  },
+  {
+    "id": "calathea",
+    "commonNameZh": "竹芋",
+    "commonNameEn": "Calathea",
+    "scientificName": "Calathea spp.",
+    "placementType": "桌上盆栽、矮櫃盆栽",
+    "matureSize": "依品種約 30 至 80 公分高",
+    "catSafety": "ASPCA 列為對貓無毒。",
+    "light": "明亮散射光到中光，避免直射日光灼傷葉片。",
+    "wateringFrequency": "約每 5 至 8 天檢查一次。",
+    "wateringMethod": "表土略乾就補水，維持微濕但不積水；水質太硬可能造成葉緣焦枯。",
+    "humidity": "偏高濕度較好，乾燥環境葉緣容易焦。",
+    "temperature": "約 18 至 27°C，避免冷風。",
+    "difficulty": "中",
+    "whyRecommended": "葉色與紋路觀賞性強，株型多半適合室內桌面或矮櫃。",
+    "watchouts": "比吊蘭更挑濕度與水質，不適合長期乾燥角落。",
+    "sourceNames": [
+      "ASPCA Cats Plant List"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+    ]
+  },
+  {
+    "id": "asplenium-nidus",
+    "commonNameZh": "鳥巢蕨",
+    "commonNameEn": "Bird's Nest Fern",
+    "scientificName": "Asplenium nidus",
+    "placementType": "桌上盆栽、矮櫃盆栽",
+    "matureSize": "室內常見約 30 至 80 公分寬",
+    "catSafety": "本地補充資料列為對貓低風險；ASPCA 貓用清單未收錄本筆快取。",
+    "light": "明亮散射光到中光，避免強烈直射日光。",
+    "wateringFrequency": "約每 5 至 8 天檢查一次。",
+    "wateringMethod": "表土略乾後澆透，避免長期把水積在葉心。",
+    "humidity": "偏高濕度較好，但需要通風。",
+    "temperature": "約 18 至 27°C。",
+    "difficulty": "中",
+    "whyRecommended": "葉片整齊、造型乾淨，適合室內角落或桌面展示。",
+    "watchouts": "葉心積水與悶濕可能造成腐爛。",
+    "sourceNames": [
+      "PlantFinder Bird's Nest Fern"
+    ],
+    "sourceUrls": [
+      "https://plantfinder.org/plants/birds-nest-fern/"
+    ]
+  },
+  {
+    "id": "nepeta-cataria",
+    "commonNameZh": "貓薄荷",
+    "commonNameEn": "Catnip",
+    "scientificName": "Nepeta cataria",
+    "placementType": "桌上盆栽、窗邊香草盆栽",
+    "matureSize": "盆栽常見約 30 至 60 公分高，可修剪控制",
+    "catSafety": "本系統依植物本身成分毒性判定為低風險；ASPCA 提醒大量食用可能造成腸胃反應，但不作為本系統有毒分類依據。",
+    "light": "明亮窗邊到直射光較佳，室內太暗會徒長。",
+    "wateringFrequency": "約每 4 至 7 天檢查一次。",
+    "wateringMethod": "表土乾後澆透，避免長期積水；盆器需有排水孔。",
+    "humidity": "一般室內濕度可接受。",
+    "temperature": "約 15 至 27°C，通風環境較穩定。",
+    "difficulty": "低",
+    "whyRecommended": "對貓友善且有互動性，適合亮窗邊小盆栽。",
+    "watchouts": "貓可能特別感興趣，建議分批提供葉片，不要讓整盆長期被啃到禿。",
+    "sourceNames": [
+      "ASPCA Catnip",
+      "Arizona Extension Catnip"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/catnip",
+      "https://extension.arizona.edu/sites/extension.arizona.edu/files/attachment/CatnipCatmint.pdf"
+    ]
+  },
+  {
+    "id": "rosmarinus-officinalis",
+    "commonNameZh": "迷迭香",
+    "commonNameEn": "Rosemary",
+    "scientificName": "Salvia rosmarinus",
+    "placementType": "亮窗邊桌上盆栽、陽台盆栽",
+    "matureSize": "盆栽可修剪維持約 30 至 80 公分；不修剪會木質化變大",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "需要非常明亮的光，最好有數小時日照；暗室內不推薦。",
+    "wateringFrequency": "約每 7 至 14 天檢查一次，依光照與盆土乾燥速度調整。",
+    "wateringMethod": "介質明顯乾了再澆透，排水要好；比羅勒更怕悶濕。",
+    "humidity": "喜通風、偏乾爽環境。",
+    "temperature": "約 15 至 27°C，避免悶熱潮濕與低溫積水。",
+    "difficulty": "中",
+    "whyRecommended": "香氣明顯、株型可修剪，適合日照充足的窗邊或小陽台。",
+    "watchouts": "室內光不足時容易衰弱；不要用精油擴香替代植物栽培。",
+    "sourceNames": [
+      "ASPCA Cats Plant List",
+      "University of Delaware Rosemary",
+      "Penn State Growing Herbs Indoors"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list",
+      "https://www.udel.edu/academics/colleges/canr/cooperative-extension/fact-sheets/rosemary/",
+      "https://extension.psu.edu/growing-herbs-indoors/"
+    ]
+  },
+  {
+    "id": "ocimum-basilicum",
+    "commonNameZh": "羅勒 / 九層塔",
+    "commonNameEn": "Basil",
+    "scientificName": "Ocimum basilicum",
+    "placementType": "亮窗邊桌上盆栽、陽台香草盆栽",
+    "matureSize": "盆栽常見約 25 至 60 公分高，可摘心控制",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "需要充足亮光，最好每天 6 小時以上明亮光或搭配植物燈。",
+    "wateringFrequency": "約每 3 至 6 天檢查一次。",
+    "wateringMethod": "表土略乾就澆透，避免完全乾到萎凋，也避免盆底積水。",
+    "humidity": "一般室內可接受，但需要通風。",
+    "temperature": "約 18 至 30°C，不耐寒。",
+    "difficulty": "中",
+    "whyRecommended": "可觀賞也可料理使用，適合有日照的窗邊小盆栽。",
+    "watchouts": "室內光不足會徒長、葉味變淡；台灣常說九層塔多屬羅勒類，但品種可能不同。",
+    "sourceNames": [
+      "ASPCA Cats Plant List",
+      "University of Minnesota Basil"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list",
+      "https://extension.umn.edu/vegetables/growing-basil"
+    ]
+  },
+  {
+    "id": "melissa-officinalis",
+    "commonNameZh": "檸檬香蜂草",
+    "commonNameEn": "Lemon Balm",
+    "scientificName": "Melissa officinalis",
+    "placementType": "桌上盆栽、窗邊香草盆栽",
+    "matureSize": "盆栽常見約 30 至 60 公分高，可修剪控制",
+    "catSafety": "ASPCA 列為對貓無毒。",
+    "light": "明亮散射光到半日照；比迷迭香稍能忍受較少光，但太暗會徒長。",
+    "wateringFrequency": "約每 4 至 7 天檢查一次。",
+    "wateringMethod": "保持穩定微濕但不積水，表土略乾再澆透。",
+    "humidity": "一般室內濕度可接受。",
+    "temperature": "約 15 至 27°C。",
+    "difficulty": "低",
+    "whyRecommended": "葉片有檸檬香，盆栽可修剪，適合亮窗邊香草角落。",
+    "watchouts": "薄荷類生長快，建議單獨一盆，定期修剪避免雜亂。",
+    "sourceNames": [
+      "ASPCA Lemon Balm",
+      "Utah State Lemon Balm",
+      "Wisconsin Horticulture Lemon Balm"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lemon-balm",
+      "https://extension.usu.edu/yardandgarden/research/lemon-balm-in-the-garden.php",
+      "https://hort.extension.wisc.edu/articles/lemon-balm-melissa-officinalis/"
+    ]
+  },
+  {
+    "id": "thymus-vulgaris",
+    "commonNameZh": "百里香",
+    "commonNameEn": "Thyme",
+    "scientificName": "Thymus vulgaris",
+    "placementType": "亮窗邊小型桌上盆栽、陽台盆栽",
+    "matureSize": "盆栽常見約 15 至 30 公分高，枝條會逐漸木質化",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "需要高光，窗邊日照或植物燈較穩定。",
+    "wateringFrequency": "約每 7 至 14 天檢查一次。",
+    "wateringMethod": "介質乾了再澆透，排水必須好；不適合長期濕泥。",
+    "humidity": "喜通風、偏乾爽環境。",
+    "temperature": "約 15 至 27°C。",
+    "difficulty": "中",
+    "whyRecommended": "植株小、香氣明顯，適合日照充足的小盆栽。",
+    "watchouts": "最常失敗原因是光不足與過濕；暗室內不建議。",
+    "sourceNames": [
+      "ASPCA Cats Plant List",
+      "Illinois Extension Thyme",
+      "Penn State Growing Herbs Indoors"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list",
+      "https://extension.illinois.edu/herbs/thyme",
+      "https://extension.psu.edu/growing-herbs-indoors/"
+    ]
+  },
+  {
+    "id": "peperomia-obtusifolia",
+    "commonNameZh": "圓葉椒草",
+    "commonNameEn": "Baby Rubber Plant",
+    "scientificName": "Peperomia obtusifolia",
+    "placementType": "桌上盆栽、層架小盆栽",
+    "matureSize": "常見約 20 至 35 公分高，株型緊湊",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "明亮散射光到中光，避免強烈直射。",
+    "wateringFrequency": "約每 7 至 14 天檢查一次。",
+    "wateringMethod": "表土乾後再澆透，厚葉可短暫耐乾，避免長期濕泥。",
+    "humidity": "一般室內可接受。",
+    "temperature": "約 18 至 27°C。",
+    "difficulty": "低",
+    "whyRecommended": "小型、耐陰度較好，適合桌面與小空間。",
+    "watchouts": "過濕比偏乾更容易出問題。",
+    "sourceNames": [
+      "ASPCA Cats Plant List"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+    ]
+  },
+  {
+    "id": "rosa-species",
+    "commonNameZh": "玫瑰",
+    "commonNameEn": "Rose",
+    "scientificName": "Rosa species",
+    "placementType": "切花、陽台高光盆栽",
+    "matureSize": "盆栽依品種差異大，小型品種約 30 至 80 公分",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "需要高光；室內暗處不適合長期栽培。",
+    "wateringFrequency": "盆栽約每 3 至 7 天檢查一次。",
+    "wateringMethod": "表土略乾後澆透，避免葉片長期潮濕。",
+    "humidity": "一般濕度可，需通風。",
+    "temperature": "約 15 至 27°C。",
+    "difficulty": "中",
+    "whyRecommended": "花材對貓低風險，適合切花短期觀賞或日照足的陽台。",
+    "watchouts": "刺可能造成物理刮傷；切花保鮮劑與農藥殘留需避免貓接觸。",
+    "sourceNames": [
+      "ASPCA Rose"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rose"
+    ]
+  },
+  {
+    "id": "zinnia-elegans",
+    "commonNameZh": "百日菊",
+    "commonNameEn": "Zinnia",
+    "scientificName": "Zinnia elegans",
+    "placementType": "切花、陽台高光盆栽",
+    "matureSize": "盆栽常見約 30 至 90 公分，依品種而定",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "需要充足日照，室內需非常亮窗邊。",
+    "wateringFrequency": "約每 3 至 7 天檢查一次。",
+    "wateringMethod": "表土乾後澆透，保持通風，避免悶濕。",
+    "humidity": "一般濕度可。",
+    "temperature": "約 18 至 30°C。",
+    "difficulty": "中",
+    "whyRecommended": "花色強、切花友善，適合陽台或短期花材。",
+    "watchouts": "一般室內光線不足時容易徒長與少花。",
+    "sourceNames": [
+      "ASPCA Cats Plant List"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+    ]
+  },
+  {
+    "id": "helianthus",
+    "commonNameZh": "向日葵",
+    "commonNameEn": "Sunflower",
+    "scientificName": "Helianthus spp.",
+    "placementType": "切花、陽台高光盆栽",
+    "matureSize": "多數品種偏高大，矮性盆栽約 30 至 60 公分",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "需要高光與直射日照。",
+    "wateringFrequency": "約每 2 至 5 天檢查一次。",
+    "wateringMethod": "盆土表面乾後澆透，開花期耗水較快。",
+    "humidity": "一般濕度可，重視通風。",
+    "temperature": "約 18 至 30°C。",
+    "difficulty": "中",
+    "whyRecommended": "花材安全性佳，適合切花或日照充足陽台。",
+    "watchouts": "不適合暗室內；花粉與切花處理劑需避免貓接觸。",
+    "sourceNames": [
+      "ASPCA Cats Plant List"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+    ]
+  },
+  {
+    "id": "gerbera-jamesonii",
+    "commonNameZh": "非洲菊",
+    "commonNameEn": "Gerbera Daisy",
+    "scientificName": "Gerbera jamesonii",
+    "placementType": "切花、亮窗邊盆栽",
+    "matureSize": "盆栽常見約 25 至 45 公分高",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "明亮光線到半日照，室內需亮窗邊。",
+    "wateringFrequency": "約每 3 至 7 天檢查一次。",
+    "wateringMethod": "表土略乾後澆透，避免水積在葉叢中心。",
+    "humidity": "一般濕度可，需通風。",
+    "temperature": "約 18 至 27°C。",
+    "difficulty": "中",
+    "whyRecommended": "切花觀賞性高，對貓低風險。",
+    "watchouts": "盆栽室內復花需要足夠光照。",
+    "sourceNames": [
+      "ASPCA Cats Plant List"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+    ]
+  },
+  {
+    "id": "antirrhinum-majus",
+    "commonNameZh": "金魚草",
+    "commonNameEn": "Snapdragon",
+    "scientificName": "Antirrhinum majus",
+    "placementType": "切花、陽台盆栽",
+    "matureSize": "常見約 30 至 90 公分，依品種而定",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "明亮光線到全日照。",
+    "wateringFrequency": "約每 3 至 7 天檢查一次。",
+    "wateringMethod": "表土略乾後澆透，排水良好。",
+    "humidity": "一般濕度可。",
+    "temperature": "約 12 至 24°C，偏涼爽較好。",
+    "difficulty": "中",
+    "whyRecommended": "花型有趣，適合切花或陽台季節性栽培。",
+    "watchouts": "高溫悶濕時容易衰弱。",
+    "sourceNames": [
+      "ASPCA Cats Plant List"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+    ]
+  },
+  {
+    "id": "orchidaceae",
+    "commonNameZh": "蘭花類",
+    "commonNameEn": "Orchids",
+    "scientificName": "Orchidaceae",
+    "placementType": "桌上盆栽、窗邊層架",
+    "matureSize": "依種類差異大，常見室內小中型約 20 至 60 公分",
+    "catSafety": "多種常見蘭花在 ASPCA 清單列為對貓無毒；仍需依品種確認。",
+    "light": "多數需要明亮散射光。",
+    "wateringFrequency": "約每 7 至 10 天檢查一次，依介質調整。",
+    "wateringMethod": "根部介質接近乾再澆透，避免盆底積水。",
+    "humidity": "中等濕度與通風。",
+    "temperature": "約 18 至 29°C，依種類不同。",
+    "difficulty": "中",
+    "whyRecommended": "開花觀賞性高，占地小，適合窗邊。",
+    "watchouts": "蘭花種類很多，本筆為類別建議；特殊品種需再確認。",
+    "sourceNames": [
+      "ASPCA Cats Plant List"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+    ]
+  },
+  {
+    "id": "callistephus-chinensis",
+    "commonNameZh": "翠菊",
+    "commonNameEn": "China Aster",
+    "scientificName": "Callistephus chinensis",
+    "placementType": "切花、陽台高光盆栽",
+    "matureSize": "常見約 30 至 80 公分高",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "需要明亮光線到日照。",
+    "wateringFrequency": "約每 3 至 7 天檢查一次。",
+    "wateringMethod": "表土略乾後澆透，避免長期積水。",
+    "humidity": "一般濕度可。",
+    "temperature": "約 15 至 25°C。",
+    "difficulty": "中",
+    "whyRecommended": "花材觀賞性佳，適合切花或陽台。",
+    "watchouts": "室內長期栽培需很亮環境。",
+    "sourceNames": [
+      "ASPCA Cats Plant List"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+    ]
+  },
+  {
+    "id": "freesia",
+    "commonNameZh": "小蒼蘭",
+    "commonNameEn": "Freesia",
+    "scientificName": "Freesia spp.",
+    "placementType": "切花、亮窗邊盆栽",
+    "matureSize": "約 20 至 40 公分高",
+    "catSafety": "本地補充資料列為低風險；ASPCA 貓用清單未收錄本筆快取。",
+    "light": "明亮光線，偏涼爽環境。",
+    "wateringFrequency": "約每 4 至 7 天檢查一次。",
+    "wateringMethod": "介質略乾後澆透，花期保持穩定水分。",
+    "humidity": "一般濕度可，需通風。",
+    "temperature": "約 12 至 22°C。",
+    "difficulty": "中",
+    "whyRecommended": "香味與花型佳，適合切花或季節性盆栽。",
+    "watchouts": "高溫環境花期短。",
+    "sourceNames": [
+      "Betterpet Pet-friendly Flowers"
+    ],
+    "sourceUrls": [
+      "https://www.betterpet.com/learn/pet-friendly-flowers"
+    ]
+  },
+  {
+    "id": "limonium-sinuatum",
+    "commonNameZh": "星辰花",
+    "commonNameEn": "Statice",
+    "scientificName": "Limonium sinuatum",
+    "placementType": "切花、乾燥花",
+    "matureSize": "切花或乾燥花為主，盆栽約 30 至 60 公分",
+    "catSafety": "本地補充資料列為低風險；ASPCA 貓用清單未收錄本筆快取。",
+    "light": "盆栽需要高光；乾燥花避免潮濕。",
+    "wateringFrequency": "盆栽約每 5 至 8 天檢查一次。",
+    "wateringMethod": "介質乾後澆透；切花保持瓶水清潔。",
+    "humidity": "一般濕度可。",
+    "temperature": "約 15 至 27°C。",
+    "difficulty": "中",
+    "whyRecommended": "耐放、可乾燥保存，適合花材。",
+    "watchouts": "乾燥花碎屑與染色花材不要讓貓啃食。",
+    "sourceNames": [
+      "ASPCA General Plant Safety Notice"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "id": "chamelaucium",
+    "commonNameZh": "蠟花",
+    "commonNameEn": "Waxflower",
+    "scientificName": "Chamelaucium spp.",
+    "placementType": "切花、亮窗邊高光盆栽",
+    "matureSize": "盆栽依品種可達 60 公分以上，常作切花",
+    "catSafety": "本地補充資料暫列低風險；未在 ASPCA 貓用快取中找到明確項目。",
+    "light": "需要明亮光線到日照。",
+    "wateringFrequency": "約每 5 至 10 天檢查一次。",
+    "wateringMethod": "排水良好，表土乾後澆透。",
+    "humidity": "喜通風、偏乾爽。",
+    "temperature": "約 12 至 25°C。",
+    "difficulty": "中",
+    "whyRecommended": "小花細緻，常作切花搭配。",
+    "watchouts": "來源不如 ASPCA 明確，若貓會啃花材建議先避開或放在不可接觸處。",
+    "sourceNames": [
+      "ASPCA General Plant Safety Notice"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "id": "eustoma-grandiflorum",
+    "commonNameZh": "洋桔梗",
+    "commonNameEn": "Lisianthus",
+    "scientificName": "Eustoma grandiflorum",
+    "placementType": "切花、亮窗邊盆栽",
+    "matureSize": "約 30 至 70 公分，依品種而定",
+    "catSafety": "Plant Pono 評估低風險；ASPCA 貓用清單未收錄本筆快取。",
+    "light": "明亮光線，盆栽需亮窗邊。",
+    "wateringFrequency": "約每 4 至 7 天檢查一次。",
+    "wateringMethod": "表土略乾後澆透，切花保持瓶水清潔。",
+    "humidity": "一般濕度可。",
+    "temperature": "約 15 至 25°C。",
+    "difficulty": "中",
+    "whyRecommended": "切花耐看，花型柔和，適合室內花材。",
+    "watchouts": "切花保鮮劑與農藥殘留需避免貓接觸。",
+    "sourceNames": [
+      "Plant Pono Eustoma grandiflorum"
+    ],
+    "sourceUrls": [
+      "https://plantpono.org/wp-content/uploads/Eustoma-grandiflorum.pdf"
+    ]
+  },
+  {
+    "id": "teucrium-marum",
+    "commonNameZh": "貓百里",
+    "commonNameEn": "Cat Thyme",
+    "scientificName": "Teucrium marum",
+    "placementType": "亮窗邊香草盆栽",
+    "matureSize": "小型灌木狀，盆栽可修剪維持約 20 至 45 公分",
+    "catSafety": "本地補充資料暫列對貓低風險；不是料理百里香。",
+    "light": "需要明亮光線到日照。",
+    "wateringFrequency": "約每 7 至 14 天檢查一次。",
+    "wateringMethod": "介質乾後澆透，排水需好。",
+    "humidity": "喜通風、偏乾爽。",
+    "temperature": "約 15 至 26°C。",
+    "difficulty": "中",
+    "whyRecommended": "對部分不太受貓薄荷吸引的貓可能有吸引力。",
+    "watchouts": "氣味人類不一定喜歡；來源不在 ASPCA 快取內，建議少量觀察。",
+    "sourceNames": [
+      "RHS Teucrium marum"
+    ],
+    "sourceUrls": [
+      "https://www.rhs.org.uk/plants/18061/teucrium-marum-cat-thyme/details"
+    ]
+  },
+  {
+    "id": "triticum-aestivum",
+    "commonNameZh": "小麥草 / 貓草",
+    "commonNameEn": "Wheat Grass",
+    "scientificName": "Triticum aestivum",
+    "placementType": "桌上貓草盆栽",
+    "matureSize": "約 8 至 15 公分時最適合提供",
+    "catSafety": "常見貓草種類之一，低風險。",
+    "light": "明亮散射光到亮窗邊。",
+    "wateringFrequency": "每日檢查水分。",
+    "wateringMethod": "保持介質微濕但不發霉，避免積水。",
+    "humidity": "一般濕度可，需通風。",
+    "temperature": "約 18 至 27°C。",
+    "difficulty": "低",
+    "whyRecommended": "適合讓貓啃咬轉移注意，生長快速。",
+    "watchouts": "發霉或腐敗的草盤要丟棄。",
+    "sourceNames": [
+      "Cat Grass Guide"
+    ],
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Cat_grass"
+    ]
+  },
+  {
+    "id": "medicago-sativa",
+    "commonNameZh": "苜蓿",
+    "commonNameEn": "Alfalfa",
+    "scientificName": "Medicago sativa",
+    "placementType": "桌上芽苗盆栽",
+    "matureSize": "芽苗或嫩葉小盆栽為主",
+    "catSafety": "本地補充資料列為低風險。",
+    "light": "明亮散射光。",
+    "wateringFrequency": "每日檢查水分。",
+    "wateringMethod": "保持濕潤但通風，避免發霉。",
+    "humidity": "一般濕度可。",
+    "temperature": "約 18 至 25°C。",
+    "difficulty": "低",
+    "whyRecommended": "嫩葉口感細，適合作為少量綠葉選項。",
+    "watchouts": "芽苗類最重要是乾淨與不發霉。",
+    "sourceNames": [
+      "ASPCA General Plant Safety Notice"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+    ]
+  },
+  {
+    "id": "rye-oat-grass",
+    "commonNameZh": "黑麥 / 燕麥草",
+    "commonNameEn": "Rye / Oat Grass",
+    "scientificName": "Secale cereale / Avena sativa",
+    "placementType": "桌上貓草盆栽",
+    "matureSize": "約 8 至 15 公分時最適合提供",
+    "catSafety": "常見貓草種類，低風險。",
+    "light": "明亮散射光到亮窗邊。",
+    "wateringFrequency": "每日檢查水分。",
+    "wateringMethod": "保持介質微濕但不積水，避免發霉。",
+    "humidity": "一般濕度可，需通風。",
+    "temperature": "約 18 至 27°C。",
+    "difficulty": "低",
+    "whyRecommended": "可提供不同草香與口感，適合輪替種植。",
+    "watchouts": "發霉、黃化或有異味時不要提供。",
+    "sourceNames": [
+      "Cat Grass Guide"
+    ],
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Cat_grass"
+    ]
+  },
+  {
+    "id": "dypsis-lutescens",
+    "commonNameZh": "黃椰子",
+    "commonNameEn": "Areca Palm",
+    "scientificName": "Dypsis lutescens",
+    "placementType": "小型落地盆栽、明亮角落盆栽",
+    "matureSize": "室內常見約 90 至 180 公分，可依盆徑控制",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "明亮散射光，避免強烈直射曬傷。",
+    "wateringFrequency": "約每 5 至 10 天檢查一次。",
+    "wateringMethod": "表土略乾後澆透，盆底積水要倒掉。",
+    "humidity": "喜中高濕度。",
+    "temperature": "約 18 至 27°C。",
+    "difficulty": "中",
+    "whyRecommended": "羽狀葉有熱帶感，適合想要落地綠量的人。",
+    "watchouts": "葉片可能吸引貓撥弄，需放穩盆器。",
+    "sourceNames": [
+      "ASPCA Cats Plant List"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+    ]
+  },
+  {
+    "id": "adiantum",
+    "commonNameZh": "鐵線蕨",
+    "commonNameEn": "Maidenhair Fern",
+    "scientificName": "Adiantum spp.",
+    "placementType": "桌上盆栽、矮櫃盆栽",
+    "matureSize": "常見約 20 至 45 公分高",
+    "catSafety": "本地補充資料列為對貓低風險。",
+    "light": "明亮散射光，避免直射。",
+    "wateringFrequency": "約每 3 至 5 天檢查一次。",
+    "wateringMethod": "介質保持微濕，不能長期乾透。",
+    "humidity": "需要偏高濕度。",
+    "temperature": "約 18 至 25°C。",
+    "difficulty": "中高",
+    "whyRecommended": "葉型細緻，適合濕度較穩定的室內角落。",
+    "watchouts": "很怕乾，若家裡乾燥不建議當新手第一盆。",
+    "sourceNames": [
+      "Plant Compendium Maidenhair Fern"
+    ],
+    "sourceUrls": [
+      "https://plantcompendium.com/pet-safety/maidenhair-fern/"
+    ]
+  },
+  {
+    "id": "pachira-aquatica",
+    "commonNameZh": "馬拉巴栗",
+    "commonNameEn": "Money Tree",
+    "scientificName": "Pachira aquatica",
+    "placementType": "桌上到落地盆栽",
+    "matureSize": "室內常見約 60 至 180 公分，可修剪控制",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "明亮散射光到中光。",
+    "wateringFrequency": "約每 7 至 14 天檢查一次。",
+    "wateringMethod": "表土乾後澆透，避免過度澆水。",
+    "humidity": "一般室內可接受。",
+    "temperature": "約 18 至 27°C。",
+    "difficulty": "低",
+    "whyRecommended": "耐養、株型穩，適合小型樹感盆栽。",
+    "watchouts": "樹幹編織處與盆土不要長期潮濕。",
+    "sourceNames": [
+      "ASPCA Cats Plant List"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+    ]
+  },
+  {
+    "id": "viola-tricolor",
+    "commonNameZh": "香堇 / 三色堇",
+    "commonNameEn": "Pansy",
+    "scientificName": "Viola tricolor",
+    "placementType": "切花、亮窗邊季節盆栽",
+    "matureSize": "約 10 至 25 公分高",
+    "catSafety": "本地補充資料列為低風險。",
+    "light": "明亮光線，偏涼爽環境。",
+    "wateringFrequency": "約每 3 至 6 天檢查一次。",
+    "wateringMethod": "表土略乾後澆透，避免悶濕。",
+    "humidity": "一般濕度可。",
+    "temperature": "約 10 至 22°C。",
+    "difficulty": "中",
+    "whyRecommended": "花朵小巧，適合季節性盆栽或短期花材。",
+    "watchouts": "高溫環境容易衰弱。",
+    "sourceNames": [
+      "NC State Extension Viola tricolor"
+    ],
+    "sourceUrls": [
+      "https://plants.ces.ncsu.edu/plants/viola-tricolor/common-name/pansy/"
+    ]
+  },
+  {
+    "id": "jasminum-species",
+    "commonNameZh": "茉莉",
+    "commonNameEn": "Jasmine",
+    "scientificName": "Jasminum species",
+    "placementType": "亮窗邊盆栽、陽台盆栽",
+    "matureSize": "依品種差異大，盆栽常見約 60 公分以上",
+    "catSafety": "ASPCA 清單中 Jasminum species 列為對貓無毒。",
+    "light": "需要很亮的光，部分品種需日照才容易開花。",
+    "wateringFrequency": "約每 5 至 10 天檢查一次。",
+    "wateringMethod": "表土略乾後澆透，花期避免長期乾旱。",
+    "humidity": "一般濕度可，需通風。",
+    "temperature": "約 18 至 27°C。",
+    "difficulty": "中",
+    "whyRecommended": "香花觀賞性高，適合亮窗邊或陽台。",
+    "watchouts": "需確認是真正 Jasminum；梔子花、鴛鴦茉莉等名稱含茉莉但不是同一安全判斷。",
+    "sourceNames": [
+      "ASPCA Cats Plant List"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+    ]
+  },
+  {
+    "id": "calendula-officinalis",
+    "commonNameZh": "金盞花",
+    "commonNameEn": "Calendula",
+    "scientificName": "Calendula officinalis",
+    "placementType": "切花、亮窗邊季節盆栽",
+    "matureSize": "約 20 至 50 公分高",
+    "catSafety": "ASPCA 貓用清單列為對貓無毒。",
+    "light": "明亮光線到日照，偏涼爽。",
+    "wateringFrequency": "約每 3 至 7 天檢查一次。",
+    "wateringMethod": "表土略乾後澆透，保持通風。",
+    "humidity": "一般濕度可。",
+    "temperature": "約 12 至 24°C。",
+    "difficulty": "低",
+    "whyRecommended": "花色明亮，適合切花與季節性盆栽。",
+    "watchouts": "悶熱潮濕時容易衰弱。",
+    "sourceNames": [
+      "ASPCA Cats Plant List"
+    ],
+    "sourceUrls": [
+      "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>貓與植物管理</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Cat Plant Notes</p>
+        <h1>貓與植物管理</h1>
+      </div>
+      <nav class="tabs" aria-label="主要畫面">
+        <button class="tab-button active" type="button" data-tab="search-panel">植物毒性查詢</button>
+        <button class="tab-button" type="button" data-tab="indoor-panel">室內植物推薦</button>
+        <button class="tab-button" type="button" data-tab="garden-panel">我的植物</button>
+      </nav>
+    </header>
+
+    <main>
+      <section id="search-panel" class="panel active" aria-labelledby="search-title">
+        <div class="section-head">
+          <div>
+            <h2 id="search-title">查詢植物對貓是否有毒</h2>
+            <p>可輸入植物中文名、英文名、學名或常見別名。</p>
+          </div>
+          <div class="source-note">
+            資料原型參考 ASPCA 與 CliniTox。若疑似誤食，請立即聯絡獸醫。
+          </div>
+        </div>
+
+        <div class="search-box">
+          <label for="plant-search">植物名稱或學名</label>
+          <input id="plant-search" type="search" autocomplete="off" placeholder="例如：黃金葛、pothos、Epipremnum aureum">
+        </div>
+
+        <div id="results" class="results" aria-live="polite"></div>
+      </section>
+
+      <section id="garden-panel" class="panel" aria-labelledby="garden-title">
+        <div class="section-head">
+          <div>
+            <h2 id="garden-title">我的植物養護與追蹤</h2>
+            <p>先從目前資料庫選一種植物，記錄澆水週期與狀況。</p>
+          </div>
+        </div>
+
+        <form id="garden-form" class="garden-form">
+          <div class="form-row">
+            <label for="garden-plant">植物</label>
+            <select id="garden-plant" required></select>
+          </div>
+          <div class="form-row">
+            <label for="custom-name">暱稱</label>
+            <input id="custom-name" type="text" placeholder="例如：客廳那盆">
+          </div>
+          <div class="form-row compact">
+            <label for="watering-days">澆水週期</label>
+            <input id="watering-days" type="number" min="1" max="60" value="7">
+            <span>天</span>
+          </div>
+          <div class="form-row">
+            <label for="last-watered">上次澆水</label>
+            <input id="last-watered" type="date">
+          </div>
+          <div class="form-row">
+            <label for="plant-status">目前狀況</label>
+            <select id="plant-status">
+              <option value="健康">健康</option>
+              <option value="觀察中">觀察中</option>
+              <option value="需要處理">需要處理</option>
+            </select>
+          </div>
+          <button class="primary-button" type="submit">加入追蹤</button>
+        </form>
+
+        <div id="garden-list" class="garden-list" aria-live="polite"></div>
+      </section>
+
+      <section id="indoor-panel" class="panel" aria-labelledby="indoor-title">
+        <div class="section-head">
+          <div>
+            <h2 id="indoor-title">適合住宅內的貓安全觀賞植物</h2>
+            <p>先放少量人工整理的推薦清單，後續逐筆確認來源再增加。</p>
+          </div>
+          <div class="source-note">
+            這裡只推薦對貓低風險或 ASPCA 列為無毒的植物；仍需避免貓把盆土、肥料或保鮮劑吃下去。
+          </div>
+        </div>
+
+        <div id="indoor-list" class="recommendation-list" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <div id="recommendation-modal" class="modal-backdrop" hidden>
+      <section class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+        <div class="modal-head">
+          <div>
+            <h2 id="modal-title"></h2>
+            <p id="modal-subtitle"></p>
+          </div>
+          <button class="remove-button" type="button" id="modal-close">關閉</button>
+        </div>
+        <div id="modal-content"></div>
+      </section>
+    </div>
+
+    <template id="result-template">
+      <article class="plant-card">
+        <div class="card-main">
+          <div>
+            <h3></h3>
+            <p class="scientific"></p>
+            <p class="aliases"></p>
+          </div>
+          <span class="status-pill"></span>
+        </div>
+        <dl class="plant-details">
+          <div>
+            <dt>對貓狀態</dt>
+            <dd class="toxicity"></dd>
+          </div>
+          <div>
+            <dt>症狀或提醒</dt>
+            <dd class="symptoms"></dd>
+          </div>
+          <div>
+            <dt>養護摘要</dt>
+            <dd class="care"></dd>
+          </div>
+        </dl>
+        <a class="source-link" target="_blank" rel="noreferrer">查看來源</a>
+      </article>
+    </template>
+
+    <template id="recommendation-template">
+      <article class="recommendation-card">
+        <div class="card-main">
+          <div>
+            <h3></h3>
+            <p class="scientific"></p>
+          </div>
+          <span class="status-pill status-safe">對貓低風險</span>
+        </div>
+        <p class="recommendation-summary"></p>
+        <button class="primary-button recommendation-open" type="button">查看養護資訊</button>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>

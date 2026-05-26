@@ -1,0 +1,2606 @@
+{
+  "Allium sativum": {
+    "label": "大蒜",
+    "aliases": [
+      "蒜头",
+      "蒜苔",
+      "蒜薹",
+      "蒜頭",
+      "青蒜"
+    ],
+    "qid": "Q23400"
+  },
+  "Allium cepa": {
+    "label": "洋蔥",
+    "aliases": [
+      "红葱",
+      "楼子葱",
+      "火葱",
+      "兴蕖",
+      "分蘖洋葱",
+      "札幌黃",
+      "洋葱",
+      "洋葱子",
+      "洋蒜",
+      "葱头",
+      "蔥頭",
+      "顶球洋葱"
+    ],
+    "qid": "Q23485"
+  },
+  "Achillea millefolium": {
+    "label": "洋蓍草",
+    "aliases": [
+      "蓍草",
+      "蓍实",
+      "千叶蓍",
+      "千葉蓍",
+      "欧蓍",
+      "欧蓍草",
+      "蚰蜒草",
+      "西洋耆草",
+      "西洋蓍草",
+      "锯草",
+      "雅柔",
+      "絲葉蓍"
+    ],
+    "qid": "Q25408"
+  },
+  "Alcea rosea": {
+    "label": "蜀葵",
+    "aliases": [
+      "一丈红",
+      "棋盘花",
+      "麻杆花"
+    ],
+    "qid": "Q27682"
+  },
+  "Anthericum liliago": {
+    "label": "蜘蛛百合",
+    "aliases": [
+      "高大圆果吊兰"
+    ],
+    "qid": "Q159274"
+  },
+  "Amaranthus hypochondriacus": {
+    "label": "千穗谷",
+    "aliases": [
+      "老枪谷子",
+      "籽粒苋"
+    ],
+    "qid": "Q159611"
+  },
+  "Artemisia dracunculus": {
+    "label": "龍蒿",
+    "aliases": [
+      "伊舍根-沙瓦格",
+      "伊舍根-沙里尔日",
+      "日本蒿菜",
+      "狭叶青蒿",
+      "蛇蒿",
+      "香艾菊",
+      "龍蒿草",
+      "椒蒿",
+      "青蒿"
+    ],
+    "qid": "Q155814"
+  },
+  "Antirrhinum majus": {
+    "label": "金魚草",
+    "aliases": [
+      "Antirrhium majus"
+    ],
+    "qid": "Q156843"
+  },
+  "Apocynum": {
+    "label": "羅布麻屬",
+    "aliases": [
+      "白麻属",
+      "茶叶花属",
+      "草夹竹桃属"
+    ],
+    "qid": "Q133242"
+  },
+  "Allium ampeloprasum": {
+    "label": "象大蒜",
+    "aliases": [
+      "南欧蒜",
+      "韭葱"
+    ],
+    "qid": "Q148995"
+  },
+  "Acalypha hispida": {
+    "label": "紅花鐵莧",
+    "aliases": [
+      "狗尾红",
+      "红穗铁苋菜",
+      "铁苋"
+    ],
+    "qid": "Q163528"
+  },
+  "Beta vulgaris": {
+    "label": "根菾菜",
+    "aliases": [
+      "莙荙子",
+      "菾菜",
+      "红牛皮菜"
+    ],
+    "qid": "Q165191"
+  },
+  "Abrus precatorius": {
+    "label": "雞母珠",
+    "aliases": [
+      "相思子",
+      "红豆",
+      "相思豆",
+      "美麗相思子",
+      "猴子眼",
+      "相思藤",
+      "美人豆",
+      "鸡母珠"
+    ],
+    "qid": "Q190887"
+  },
+  "Araucaria heterophylla": {
+    "label": "小葉南洋杉",
+    "aliases": [
+      "诺和克南洋杉"
+    ],
+    "qid": "Q161070"
+  },
+  "Acer rubrum": {
+    "label": "北美紅楓",
+    "aliases": [
+      "水枫",
+      "红花槭"
+    ],
+    "qid": "Q161364"
+  },
+  "Asclepias": {
+    "label": "馬利筋屬",
+    "aliases": [
+      "乳草"
+    ],
+    "qid": "Q162153"
+  },
+  "Adonidia merrillii": {
+    "label": "馬尼拉椰",
+    "aliases": [
+      "圣诞椰"
+    ],
+    "qid": "Q652839"
+  },
+  "Alstroemeria": {
+    "label": "六出花屬",
+    "aliases": [
+      "彩花扭柄属",
+      "扭柄叶属"
+    ],
+    "qid": "Q917833"
+  },
+  "Asplenium bulbiferum": {
+    "label": "大鐵角蕨",
+    "aliases": [
+      "珠芽铁角蕨"
+    ],
+    "qid": "Q1707361"
+  },
+  "Anthriscus cerefolium": {
+    "label": "法國芫荽",
+    "aliases": [
+      "蜡叶峨参",
+      "雪维菜"
+    ],
+    "qid": "Q218462"
+  },
+  "Beaucarnea recurvata": {
+    "label": "酒瓶蘭",
+    "aliases": [
+      "象腿树"
+    ],
+    "qid": "Q510340"
+  },
+  "Aspidistra elatior": {
+    "label": "蜘蛛抱蛋",
+    "aliases": [
+      "一葉蘭"
+    ],
+    "qid": "Q3239567"
+  },
+  "Arctotis stoechadifolia": {
+    "label": "藍目菊",
+    "aliases": [
+      "灰毛菊",
+      "薰衣草叶熊耳菊",
+      "非洲雏菊"
+    ],
+    "qid": "Q4787711"
+  },
+  "Acer ginnala": {
+    "label": "茶条槭",
+    "aliases": [
+      "青楷槭",
+      "华北茶条槭",
+      "茶条"
+    ],
+    "qid": "Q15634290"
+  },
+  "Aesculus glabra": {
+    "label": "光葉七葉樹",
+    "aliases": [
+      "光滑七叶树"
+    ],
+    "qid": "Q1813339"
+  },
+  "Asparagus densiflorus": {
+    "label": "非洲天門冬",
+    "aliases": [
+      "万年青",
+      "狐尾武竹"
+    ],
+    "qid": "Q1816048"
+  },
+  "Arisaema triphyllum": {
+    "label": "三葉天南星",
+    "aliases": [
+      "三叶南星",
+      "三叶天南星"
+    ],
+    "qid": "Q2716758"
+  },
+  "Begonia rex": {
+    "label": "蟆葉秋海棠",
+    "aliases": [
+      "毛叶秋海棠",
+      "紫叶秋海棠",
+      "长纤秋海棠",
+      "大王秋海棠",
+      "尖蕊秋海棠"
+    ],
+    "qid": "Q2893850"
+  },
+  "Begonia masoniana": {
+    "label": "鐵十字秋海棠",
+    "aliases": [
+      "铁十字秋海棠"
+    ],
+    "qid": "Q2893849"
+  },
+  "Aphelandra squarrosa": {
+    "label": "金脈單藥花",
+    "aliases": [
+      "单药花",
+      "单药爵床"
+    ],
+    "qid": "Q3231986"
+  },
+  "Barbarea vulgaris": {
+    "label": "欧洲山芥",
+    "aliases": [],
+    "qid": "Q157285"
+  },
+  "Berteroa incana": {
+    "label": "团扇薺",
+    "aliases": [],
+    "qid": "Q159029"
+  },
+  "Alyssum": {
+    "label": "庭薺屬",
+    "aliases": [],
+    "qid": "Q161063"
+  },
+  "Anthemis cotula": {
+    "label": "臭春黄菊",
+    "aliases": [],
+    "qid": "Q571357"
+  },
+  "Abronia fragrans": {
+    "label": "香沙地馬鞭草",
+    "aliases": [],
+    "qid": "Q2821956"
+  },
+  "Aeschynanthus humilis": {
+    "label": "矮芒毛苣薹",
+    "aliases": [],
+    "qid": "Q15249070"
+  },
+  "Antirrhinum orontium": {
+    "label": "小金魚草",
+    "aliases": [],
+    "qid": "Q21083794"
+  },
+  "Acalypha godseffiana": null,
+  "Acantha": null,
+  "Albiflora": null,
+  "Aloe retusa": null,
+  "Aloysia triphylla": null,
+  "Ambrosia mexicana": null,
+  "Anethum graveolena": null,
+  "Anoectuchilus setaceus": null,
+  "Anthericum comosum": null,
+  "Anthirrhinum multiflorum": null,
+  "Anthurium scherzeranum": null,
+  "Antirrhinum multiflorum": null,
+  "Asarina erubescens": null,
+  "Begonia cleopatra": null,
+  "Begonia metallica": null,
+  "Begonia rex 'peace'": null,
+  "Begonia scharfii": null,
+  "Begonia semperflorens cultivar": null,
+  "Bertolonia mosaica": null,
+  "Borage officinalis": null,
+  "Brodiaea pulchella": null,
+  "Bulbophyllum appendiculatum": null,
+  "Caesalpinia gilliesii": null,
+  "Ceratonia siliqua": {
+    "label": "長角豆",
+    "aliases": [],
+    "qid": "Q68763"
+  },
+  "Clematis": {
+    "label": "鐵線蓮屬",
+    "aliases": [],
+    "qid": "Q157634"
+  },
+  "Clintonia borealis": {
+    "label": "北方七筋姑",
+    "aliases": [],
+    "qid": "Q291670"
+  },
+  "Castanea dentata": {
+    "label": "美洲栗",
+    "aliases": [],
+    "qid": "Q468698"
+  },
+  "Callistemon citrinus": {
+    "label": "美花红千层",
+    "aliases": [],
+    "qid": "Q1028271"
+  },
+  "Cicuta": {
+    "label": "毒芹屬",
+    "aliases": [],
+    "qid": "Q2093588"
+  },
+  "Cinnamomum zeylanicum": {
+    "label": "锡兰肉桂",
+    "aliases": [],
+    "qid": "Q12892282"
+  },
+  "Centaurea repens": {
+    "label": "匍匐矢车菊",
+    "aliases": [],
+    "qid": "Q25531399"
+  },
+  "Cannabis sativa": {
+    "label": "大麻",
+    "aliases": [
+      "山丝苗",
+      "火麻仁",
+      "火麻子",
+      "野大麻",
+      "麻叶",
+      "麻皮",
+      "麻花",
+      "麻费",
+      "野麻",
+      "胡麻",
+      "麻根",
+      "火麻",
+      "线麻"
+    ],
+    "qid": "Q26726"
+  },
+  "Chrysanthemum": {
+    "label": "菊屬",
+    "aliases": [
+      "茼蒿属"
+    ],
+    "qid": "Q59882"
+  },
+  "Centaurea cyanus": {
+    "label": "矢車菊",
+    "aliases": [
+      "矢车草",
+      "矢车菊",
+      "蓝芙蓉",
+      "蓝花矢车菊",
+      "车轮花"
+    ],
+    "qid": "Q156921"
+  },
+  "Calendula officinalis": {
+    "label": "金盞花",
+    "aliases": [
+      "金盏花",
+      "金盏菊"
+    ],
+    "qid": "Q145930"
+  },
+  "Canna indica": {
+    "label": "美人蕉",
+    "aliases": [
+      "美人蕉根",
+      "美人蕉花",
+      "芭蕉芋",
+      "白花曇花",
+      "白蓮蕉花",
+      "紅花美人蕉",
+      "紫葉美人蕉",
+      "姜芋",
+      "紫叶美人蕉",
+      "花叶竹芋",
+      "蕉芋"
+    ],
+    "qid": "Q163559"
+  },
+  "Conium maculatum": {
+    "label": "毒参",
+    "aliases": [
+      "新疆藁本"
+    ],
+    "qid": "Q218041"
+  },
+  "Camellia japonica": {
+    "label": "日本山茶",
+    "aliases": [
+      "茶花",
+      "山茶",
+      "海石榴",
+      "玉茗花",
+      "红山茶",
+      "耐冬"
+    ],
+    "qid": "Q160121"
+  },
+  "Colocasia esculenta": {
+    "label": "芋",
+    "aliases": [
+      "接骨草",
+      "香芋",
+      "红芋",
+      "台芋",
+      "莒",
+      "毛芋头",
+      "紫芋",
+      "野芋",
+      "水芋",
+      "芋头",
+      "芋頭",
+      "九头芋",
+      "古夫芋",
+      "台灣青芋",
+      "吉安毛子芋",
+      "土芝",
+      "大紫芋",
+      "姜巴芋",
+      "开花芋",
+      "日本叶用芋",
+      "毛艿",
+      "毛芋",
+      "沙市糯芋",
+      "溧阳红芽芋",
+      "滇南芋",
+      "燕窝",
+      "狗头芋",
+      "独皮叶",
+      "甜芋",
+      "绿芋",
+      "芋（茵芋）",
+      "芋仔",
+      "芋叶",
+      "芋头花",
+      "芋岌",
+      "芋梗",
+      "芋艿",
+      "荔芋",
+      "蹲鸱",
+      "里芋",
+      "长臂芋",
+      "青皮叶",
+      "麻芋头",
+      "黑耿鸭蛋芋",
+      "黑芋"
+    ],
+    "qid": "Q227997"
+  },
+  "Cephalocereus senilis": {
+    "label": "翁柱",
+    "aliases": [
+      "白头翁",
+      "翁丸"
+    ],
+    "qid": "Q312190"
+  },
+  "Callistephus chinensis": {
+    "label": "翠菊",
+    "aliases": [
+      "翠菊属",
+      "五月菊",
+      "江西腊",
+      "红千层"
+    ],
+    "qid": "Q312441"
+  },
+  "Callistemon": {
+    "label": "紅千層屬",
+    "aliases": [
+      "瓶刷树属"
+    ],
+    "qid": "Q496460"
+  },
+  "Chamaedorea elegans": {
+    "label": "袖珍椰子",
+    "aliases": [
+      "矮棕",
+      "客厅棕",
+      "客室棕",
+      "矮生椰子",
+      "秀丽竹节椰",
+      "袖珍棕",
+      "袖珍竹节椰"
+    ],
+    "qid": "Q660200"
+  },
+  "Carya cordiformis": {
+    "label": "心葉山核桃",
+    "aliases": [
+      "姬核桃",
+      "苦味山核桃"
+    ],
+    "qid": "Q879016"
+  },
+  "Ceratostigma willmottianum": {
+    "label": "岷江藍雪花",
+    "aliases": [
+      "兴居茹马",
+      "扳倒甑",
+      "搬倒甑",
+      "紫金莲"
+    ],
+    "qid": "Q1073831"
+  },
+  "Celosia cristata": {
+    "label": "雞冠花",
+    "aliases": [
+      "鸡冠",
+      "鸡公花",
+      "鸡冠子",
+      "鸡冠花",
+      "鸡冠花（鸡冠1",
+      "鸡冠花菜",
+      "鸡冠苗",
+      "鸡角根",
+      "鸡髻花"
+    ],
+    "qid": "Q1186867"
+  },
+  "Calochortus": {
+    "label": "仙燈屬",
+    "aliases": [
+      "丽草属",
+      "蝴蝶百合属"
+    ],
+    "qid": "Q1288804"
+  },
+  "Centaurea solstitialis": {
+    "label": "黃星薊",
+    "aliases": [
+      "长刺矢车菊",
+      "黄矢车菊",
+      "黃矢車菊"
+    ],
+    "qid": "Q2068262"
+  },
+  "Callistemon viminalis": {
+    "label": "串錢柳",
+    "aliases": [
+      "垂枝红千层"
+    ],
+    "qid": "Q2512308"
+  },
+  "Carissa grandiflora": {
+    "label": "卡梨撒",
+    "aliases": [
+      "美國櫻桃"
+    ],
+    "qid": "Q10909868"
+  },
+  "Canna edulis": {
+    "label": "蕉芋",
+    "aliases": [
+      "姜芋"
+    ],
+    "qid": "Q15250761"
+  },
+  "Chenopodium ambrosioides": {
+    "label": "臭杏",
+    "aliases": [
+      "土荆芥",
+      "臭草",
+      "杀虫芥",
+      "鹅脚草",
+      "土荊芥"
+    ],
+    "qid": "Q15251066"
+  },
+  "Caesalpinia gilliessi": null,
+  "Calathea insignis": null,
+  "Calathea micans": null,
+  "Calochortus gunnisonii": null,
+  "Camellia japonica; Thea japonica": null,
+  "Canna generalis": null,
+  "Carya aquatica": null,
+  "Carya glabra": null,
+  "Carya laciniosa": null,
+  "Carya tomentosa": null,
+  "Cattleya forbesii": null,
+  "Cattleya labiata": null,
+  "Cattleya mossiae": null,
+  "Cattleya trianaei": null,
+  "Celosia globosa": null,
+  "Celosia plumosa": null,
+  "Celosia spicata": null,
+  "Ceratostigma larpentiae": null,
+  "Chlorophytum bichetti": null,
+  "Cicuta maculata": null,
+  "Cissus dicolor": null,
+  "Cissus rhombifolia": null,
+  "Citrus aurantifolia": null,
+  "Citrus limonia": null,
+  "Citrus paradisii": null,
+  "Citrus sinensis": null,
+  "Cleome hasserlana": null,
+  "Clintonia umbelluata": null,
+  "Clintonia uniflora": null,
+  "Clivia minata": null,
+  "Clusia major": null,
+  "Cucumis sativus": {
+    "label": "胡瓜",
+    "aliases": [
+      "小黃瓜",
+      "老黃瓜",
+      "青瓜",
+      "黃瓜"
+    ],
+    "qid": "Q23425"
+  },
+  "Cucumis melo": {
+    "label": "甜瓜",
+    "aliases": [
+      "香瓜",
+      "越瓜",
+      "哈密瓜",
+      "白兰瓜",
+      "马泡瓜",
+      "华莱士瓜",
+      "穿肠草",
+      "網紋瓜",
+      "菜瓜（变种）",
+      "蜜瓜",
+      "酱瓜"
+    ],
+    "qid": "Q81602"
+  },
+  "Coriandrum sativum": {
+    "label": "芫荽",
+    "aliases": [
+      "胡荽子",
+      "芫荽（香菜、胡荽）",
+      "芫荽(香菜)",
+      "芫荽子",
+      "芫荽实",
+      "芫荽茎",
+      "香菜",
+      "胡荽",
+      "香荽"
+    ],
+    "qid": "Q41611"
+  },
+  "Cymbopogon citratus": {
+    "label": "檸檬茅",
+    "aliases": [
+      "柠檬茅",
+      "风茅",
+      "香矛草",
+      "香茅"
+    ],
+    "qid": "Q33913"
+  },
+  "Convallaria majalis": {
+    "label": "鈴蘭",
+    "aliases": [
+      "君影草",
+      "小芦铃",
+      "山谷百合",
+      "扫帚糜子",
+      "糜子菜",
+      "芦藜花",
+      "草寸香",
+      "草玉玲",
+      "鈴蘭花",
+      "铃兰",
+      "铃兰花",
+      "香水花",
+      "鹿铃"
+    ],
+    "qid": "Q101711"
+  },
+  "Dracaena fragrans": {
+    "label": "香龍血樹",
+    "aliases": [
+      "香龙血树"
+    ],
+    "qid": "Q133690"
+  },
+  "Dionaea muscipula": {
+    "label": "捕蠅草",
+    "aliases": [
+      "捕蝇草",
+      "捕蟲草屬",
+      "捕蠅草屬",
+      "捕蠅葉",
+      "蒼蠅的地獄"
+    ],
+    "qid": "Q155825"
+  },
+  "Dianthus": {
+    "label": "石竹屬",
+    "aliases": [
+      "撫子"
+    ],
+    "qid": "Q156099"
+  },
+  "Delphinium": {
+    "label": "翠雀屬",
+    "aliases": [
+      "翠雀花属"
+    ],
+    "qid": "Q160107"
+  },
+  "Cucurbita maxima": {
+    "label": "筍瓜",
+    "aliases": [
+      "北瓜",
+      "饭瓜",
+      "搅丝瓜",
+      "栗子南瓜",
+      "桃南瓜",
+      "红南瓜",
+      "西洋南瓜"
+    ],
+    "qid": "Q161180"
+  },
+  "Digitalis purpurea": {
+    "label": "毛地黃",
+    "aliases": [
+      "毛地黄(洋地黄、紫花洋地黄、紫花毛地黄）",
+      "洋地黄"
+    ],
+    "qid": "Q157555"
+  },
+  "Crataegus laevigata": {
+    "label": "亮葉山楂",
+    "aliases": [
+      "钝裂叶山楂"
+    ],
+    "qid": "Q159553"
+  },
+  "Echeveria": {
+    "label": "擬石蓮花屬",
+    "aliases": [
+      "拟石莲花属",
+      "石莲掌属",
+      "莲座草属"
+    ],
+    "qid": "Q837077"
+  },
+  "Darlingtonia californica": {
+    "label": "眼鏡蛇瓶子草",
+    "aliases": [
+      "加州瓶子草",
+      "眼鏡蛇植物",
+      "眼鏡蛇瓶子草屬",
+      "眼鏡蛇百合",
+      "眼镜蛇瓶子草属",
+      "眼镜蛇草"
+    ],
+    "qid": "Q1138945"
+  },
+  "Cymbalaria muralis": {
+    "label": "梅花草",
+    "aliases": [
+      "蔓柳穿鱼"
+    ],
+    "qid": "Q164270"
+  },
+  "Deutzia gracilis": {
+    "label": "阿里山溲疏",
+    "aliases": [
+      "细梗溲疏"
+    ],
+    "qid": "Q181521"
+  },
+  "Cucurbita ficifolia": {
+    "label": "魚翅瓜",
+    "aliases": [
+      "榕叶南瓜",
+      "白皮黑子南瓜",
+      "黑籽南瓜"
+    ],
+    "qid": "Q431138"
+  },
+  "Cucurbita pepo": {
+    "label": "美國南瓜",
+    "aliases": [
+      "西葫芦",
+      "观赏南瓜",
+      "桃南瓜"
+    ],
+    "qid": "Q7229863"
+  },
+  "Dracaena marginata": {
+    "label": "紅邊竹蕉",
+    "aliases": [
+      "五彩千年木"
+    ],
+    "qid": "Q13539275"
+  },
+  "Dieffenbachia picta": {
+    "label": "花葉萬年青",
+    "aliases": [
+      "白玉黛粉葉",
+      "花叶黛粉芋"
+    ],
+    "qid": "Q50833938"
+  },
+  "Cucurbita": {
+    "label": "南瓜屬",
+    "aliases": [
+      "ky'uhm"
+    ],
+    "qid": "Q5339301"
+  },
+  "Dracaena surculosa": {
+    "label": "星點木",
+    "aliases": [
+      "吸枝龙血树",
+      "星斑千年木, 星斑龍血樹, 吸枝龍血樹"
+    ],
+    "qid": "Q5814069"
+  },
+  "Dypsis lutescens": {
+    "label": "散尾葵",
+    "aliases": [
+      "黄椰子"
+    ],
+    "qid": "Q1535705"
+  },
+  "Cucumis anguria": {
+    "label": "小刺黄瓜",
+    "aliases": [
+      "安古里亚甜瓜"
+    ],
+    "qid": "Q2349096"
+  },
+  "Davallia": {
+    "label": "骨碎補屬",
+    "aliases": [
+      "骨碎補科"
+    ],
+    "qid": "Q2390278"
+  },
+  "Cyrtomium falcatum": {
+    "label": "全緣貫眾蕨",
+    "aliases": [
+      "大昏鸡头",
+      "全缘贯众蕨"
+    ],
+    "qid": "Q2415732"
+  },
+  "Dichelostemma": {
+    "label": "蓝壶韭属",
+    "aliases": [
+      "丽韭属"
+    ],
+    "qid": "Q2707782"
+  },
+  "Cryptanthus zonatus": {
+    "label": "虎紋小鳳梨",
+    "aliases": [
+      "虎纹姬凤梨",
+      "虎纹小凤梨"
+    ],
+    "qid": "Q5190736"
+  },
+  "Dieffenbachia amoena": {
+    "label": "大王黛粉葉",
+    "aliases": [
+      "花叶万年青",
+      "大王黛粉芋"
+    ],
+    "qid": "Q5274538"
+  },
+  "Crataegus": {
+    "label": "山楂屬",
+    "aliases": [],
+    "qid": "Q132557"
+  },
+  "Dracaena reflexa": {
+    "label": "百合竹",
+    "aliases": [],
+    "qid": "Q135016"
+  },
+  "Crossandra": {
+    "label": "十字爵床屬",
+    "aliases": [],
+    "qid": "Q137288"
+  },
+  "Cyclamen": {
+    "label": "仙客來屬",
+    "aliases": [],
+    "qid": "Q147295"
+  },
+  "Cortaderia selloana": {
+    "label": "蒲葦",
+    "aliases": [],
+    "qid": "Q470109"
+  },
+  "Coreopsis": {
+    "label": "金鷄菊屬",
+    "aliases": [],
+    "qid": "Q1362995"
+  },
+  "Cordyline australis": {
+    "label": "澳洲朱蕉",
+    "aliases": [],
+    "qid": "Q2379130"
+  },
+  "Dimorphotheca pluvialis": {
+    "label": "异果菊",
+    "aliases": [],
+    "qid": "Q13036412"
+  },
+  "Cucumis dipsaceus": {
+    "label": "刺猬黄瓜",
+    "aliases": [],
+    "qid": "Q15533016"
+  },
+  "Dracaena deremensis": {
+    "label": "竹蕉",
+    "aliases": [],
+    "qid": "Q50828838"
+  },
+  "Dizygotheca elegantissima": {
+    "label": "孔雀木",
+    "aliases": [],
+    "qid": "Q50839403"
+  },
+  "Cordyline rubra": null,
+  "Coreopsis californica": null,
+  "Crataegus douglasii": null,
+  "Cryptanthus bivattus minor": null,
+  "Cryptanthus lacerdae": null,
+  "Cucurbia pepo": null,
+  "Cucurbita maxima var. banana": null,
+  "Cucurbita maxima var. hubbard": null,
+  "Cycas and Zamia": null,
+  "Cycas revoluta, zamia": null,
+  "Cymopterus watsonii": null,
+  "Daucus carota var. sativa": null,
+  "Davallia fejeensis": null,
+  "Dendrobium gracilicaule": null,
+  "Dichelostemma pulchellum": null,
+  "Dichorisandra reginae": null,
+  "Dinteranthus vanzylii": null,
+  "Draceana": null,
+  "Dypsis lutescens, chrysalidocarpus lutescens (alternate scientific name)": null,
+  "Echevaria": null,
+  "Foeniculum vulgare": {
+    "label": "茴香",
+    "aliases": [
+      "孜然芹",
+      "小茴香",
+      "小茴香根皮",
+      "茴香（小茴香）",
+      "茴香子",
+      "茴香根",
+      "茴香茎叶"
+    ],
+    "qid": "Q43511"
+  },
+  "Haworthia": {
+    "label": "牡丹捲屬",
+    "aliases": [
+      "瓦苇属",
+      "蛇尾兰属"
+    ],
+    "qid": "Q133983"
+  },
+  "Ficus": {
+    "label": "榕屬",
+    "aliases": [
+      "无花果属",
+      "榕族",
+      "無花果屬",
+      "無花果族",
+      "錐葉榕",
+      "琵琶螺属"
+    ],
+    "qid": "Q59798"
+  },
+  "Eucalyptus": {
+    "label": "桉屬",
+    "aliases": [
+      "尤加利",
+      "尤加利樹",
+      "桉樹"
+    ],
+    "qid": "Q45669"
+  },
+  "Gleditsia triacanthos": {
+    "label": "美國皂莢",
+    "aliases": [
+      "皂荚子",
+      "三刺皂荚",
+      "新疆皂荚",
+      "美国皂角"
+    ],
+    "qid": "Q157650"
+  },
+  "Euphorbia pulcherrima": {
+    "label": "聖誕紅",
+    "aliases": [
+      "圣诞花",
+      "猩猩木",
+      "老来娇",
+      "耶誕紅",
+      "聖誕花"
+    ],
+    "qid": "Q208253"
+  },
+  "Haworthia fasciata": {
+    "label": "斑馬十二卷",
+    "aliases": [
+      "斑马植物",
+      "条纹十二卷"
+    ],
+    "qid": "Q219511"
+  },
+  "Ficus benjamina": {
+    "label": "垂榕",
+    "aliases": [
+      "天仙果",
+      "白肉榕",
+      "小叶榕",
+      "垂叶榕",
+      "孟占明榕",
+      "白榕",
+      "细叶榕"
+    ],
+    "qid": "Q275160"
+  },
+  "Euphorbia tirucalli": {
+    "label": "綠珊瑚",
+    "aliases": [
+      "绿珊瑚",
+      "青珊瑚",
+      "光棍树"
+    ],
+    "qid": "Q883685"
+  },
+  "Epidendrum ibaguense": {
+    "label": "血红树兰",
+    "aliases": [
+      "攀缘兰"
+    ],
+    "qid": "Q990046"
+  },
+  "Gypsophila elegans": {
+    "label": "霞草",
+    "aliases": [
+      "满天星",
+      "丝石竹",
+      "缕丝花"
+    ],
+    "qid": "Q1194086"
+  },
+  "Hedychium coronarium": {
+    "label": "穗花山奈",
+    "aliases": [
+      "白草果",
+      "路边姜",
+      "蝴蝶花",
+      "白蝴蝶花",
+      "野薑花",
+      "土羌活",
+      "山羌活",
+      "南薑花",
+      "土姜活",
+      "夜寒舒",
+      "洋姜野",
+      "洋荷",
+      "穗花山柰",
+      "立芨",
+      "蝴蝶姜",
+      "蝴蝶薑",
+      "路邊姜",
+      "草果藥"
+    ],
+    "qid": "Q1994229"
+  },
+  "Echeveria elegans": {
+    "label": "月影",
+    "aliases": [
+      "墨西哥雪球",
+      "星影"
+    ],
+    "qid": "Q2783756"
+  },
+  "Guzmania musaica": {
+    "label": "果子蔓",
+    "aliases": [
+      "哥伦比亚凤梨"
+    ],
+    "qid": "Q3122378"
+  },
+  "Eichhornia crassipes": {
+    "label": "布袋蓮",
+    "aliases": [
+      "水浮莲",
+      "凤眼蓝",
+      "凤眼兰",
+      "凤眼莲",
+      "鳳眼蓮",
+      "浮水蓮花"
+    ],
+    "qid": "Q690645"
+  },
+  "Gerbera jamesonii": {
+    "label": "非洲菊",
+    "aliases": [
+      "扶郎花"
+    ],
+    "qid": "Q746928"
+  },
+  "Halesia carolina": {
+    "label": "小銀锺花",
+    "aliases": [
+      "北美银钟花",
+      "四翅银钟花",
+      "山地银钟花",
+      "山银钟花"
+    ],
+    "qid": "Q3125935"
+  },
+  "Hedychium gardnerianum": {
+    "label": "紅絲薑花",
+    "aliases": [
+      "红丝姜花"
+    ],
+    "qid": "Q3142116"
+  },
+  "Galtonia": {
+    "label": "夏風信子屬",
+    "aliases": [
+      "夏水仙属"
+    ],
+    "qid": "Q3310244"
+  },
+  "Exacum affine": {
+    "label": "紫芳草",
+    "aliases": [
+      "藻百年",
+      "爱克花",
+      "藻百年草"
+    ],
+    "qid": "Q5392219"
+  },
+  "Heuchera sanguinea": {
+    "label": "红肾形草",
+    "aliases": [
+      "红花矾根",
+      "红花肾形草"
+    ],
+    "qid": "Q12332586"
+  },
+  "Echinopsis multiplex": {
+    "label": "仙人拳",
+    "aliases": [
+      "旺盛球"
+    ],
+    "qid": "Q41776135"
+  },
+  "Gladiolus": {
+    "label": "唐菖蒲屬",
+    "aliases": [],
+    "qid": "Q156207"
+  },
+  "Fatsia japonica": {
+    "label": "八角金盤",
+    "aliases": [],
+    "qid": "Q203569"
+  },
+  "Felicia amelloides": {
+    "label": "蓝菊",
+    "aliases": [],
+    "qid": "Q354211"
+  },
+  "Echinops": {
+    "label": "藍刺頭屬",
+    "aliases": [],
+    "qid": "Q650106"
+  },
+  "Heracleum maximum": {
+    "label": "北美独活",
+    "aliases": [],
+    "qid": "Q2896924"
+  },
+  "Fittonia verschaffeltii": {
+    "label": "紅網紋草",
+    "aliases": [],
+    "qid": "Q5455514"
+  },
+  "Erigeron speciosus": {
+    "label": "美麗飞蓬",
+    "aliases": [],
+    "qid": "Q5835771"
+  },
+  "Episcia reptans": {
+    "label": "火紅紫羅蘭",
+    "aliases": [],
+    "qid": "Q10651554"
+  },
+  "Epilobium angustifolium": {
+    "label": "柳蘭",
+    "aliases": [],
+    "qid": "Q12217056"
+  },
+  "Fragaria": {
+    "label": "草莓屬",
+    "aliases": [],
+    "qid": "Q745"
+  },
+  "Echeveria Pulinata": null,
+  "Echeveria derenbergii": null,
+  "Echeveria gilva": null,
+  "Echeveria glauca": null,
+  "Echeveria multicaulis": null,
+  "Echeveria pul-oliver": null,
+  "Eleagnus": null,
+  "Encyclia tampensis": null,
+  "Epidendrum atropurpeum": null,
+  "Epidendrum prismatocarpum": null,
+  "Epidendrum tampense": null,
+  "Episcia cultivar": null,
+  "Episcia dianthiflora": null,
+  "Eriogonium inflatum": null,
+  "Eriogonium umbellatum": null,
+  "Euonymus occidentalis": null,
+  "Frithia pulchra": null,
+  "Fuchsia triphylla": null,
+  "Fuschsia": null,
+  "Giant Dracaena": null,
+  "Gloxinia perennis": null,
+  "Guzmania lingulata minor": null,
+  "Gynura aurantica": null,
+  "Haemaria discolor": null,
+  "Haworthia margaritifera": null,
+  "Haworthia subfasciata": null,
+  "Hemerocallis graminea": null,
+  "Hemigraphis exotica": null,
+  "Ipomoea batatas": {
+    "label": "甘藷",
+    "aliases": [
+      "地瓜",
+      "朱薯",
+      "枕薯",
+      "白薯",
+      "線苕",
+      "红苕",
+      "蕃薯",
+      "金薯",
+      "番薯",
+      "土瓜",
+      "红薯",
+      "甘薯",
+      "甜薯"
+    ],
+    "qid": "Q37937"
+  },
+  "Hylocereus undatus": {
+    "label": "量天尺",
+    "aliases": [
+      "霸王鞭",
+      "三角柱",
+      "三棱箭",
+      "火龙果",
+      "量天尺花",
+      "龙骨花"
+    ],
+    "qid": "Q131730"
+  },
+  "Hoya carnosa": {
+    "label": "毬蘭",
+    "aliases": [
+      "玉蝶梅",
+      "绣球花",
+      "壁梅",
+      "爬岩板",
+      "狗舌藤",
+      "玉叠梅",
+      "肺炎草",
+      "草鞋板",
+      "铁脚板",
+      "雪梅",
+      "马骝解"
+    ],
+    "qid": "Q134347"
+  },
+  "Jasminum": {
+    "label": "素馨屬",
+    "aliases": [
+      "茉莉"
+    ],
+    "qid": "Q82014"
+  },
+  "Liriope muscari": {
+    "label": "闊葉山麥冬",
+    "aliases": [
+      "土麦冬",
+      "短莛山麦冬",
+      "阔叶山麦冬",
+      "阔叶麦冬"
+    ],
+    "qid": "Q141540"
+  },
+  "Impatiens": {
+    "label": "鳳仙花屬",
+    "aliases": [
+      "凤仙花属"
+    ],
+    "qid": "Q141672"
+  },
+  "Howea forsteriana": {
+    "label": "豪爵椰",
+    "aliases": [
+      "平叶棕",
+      "豪爵棕",
+      "豪爵椰属"
+    ],
+    "qid": "Q146290"
+  },
+  "Hypericum perforatum": {
+    "label": "貫葉連翹",
+    "aliases": [
+      "千层楼",
+      "圣约翰麦芽汁",
+      "小叶金丝桃",
+      "小金丝桃",
+      "贯叶金丝桃",
+      "铁帚把",
+      "聖約翰麥芽汁",
+      "夜关门"
+    ],
+    "qid": "Q158289"
+  },
+  "Hibiscus syriacus": {
+    "label": "木槿",
+    "aliases": [
+      "朝天子",
+      "朝开暮落花",
+      "木槿叶",
+      "木槿花",
+      "無窮花",
+      "白花重瓣木槿",
+      "舜華",
+      "长苞木槿",
+      "木棉",
+      "白花单瓣木槿",
+      "紫花重瓣木槿",
+      "荆条"
+    ],
+    "qid": "Q157756"
+  },
+  "Kniphofia": {
+    "label": "火把蓮屬",
+    "aliases": [
+      "火杖属",
+      "火炬花属"
+    ],
+    "qid": "Q157905"
+  },
+  "Liriodendron tulipifera": {
+    "label": "北美鵝掌楸",
+    "aliases": [
+      "凹朴皮",
+      "鹅掌楸根",
+      "鹅掌楸"
+    ],
+    "qid": "Q158783"
+  },
+  "Ipomoea": {
+    "label": "番薯屬",
+    "aliases": [
+      "寄生牵牛属",
+      "月光花屬",
+      "牽牛属",
+      "牽牛花屬",
+      "蕃薯屬",
+      "虎掌藤属"
+    ],
+    "qid": "Q161173"
+  },
+  "Iris": {
+    "label": "鳶尾屬",
+    "aliases": [
+      "鳶尾花",
+      "鸢尾花"
+    ],
+    "qid": "Q156901"
+  },
+  "Hyacinthus orientalis": {
+    "label": "風信子",
+    "aliases": [
+      "风信子"
+    ],
+    "qid": "Q157428"
+  },
+  "Ilex aquifolium": {
+    "label": "歐洲冬青",
+    "aliases": [
+      "枸骨叶冬青",
+      "欧洲冬青"
+    ],
+    "qid": "Q192190"
+  },
+  "Juglans nigra": {
+    "label": "黑胡桃",
+    "aliases": [
+      "黑核桃"
+    ],
+    "qid": "Q852572"
+  },
+  "Larrea tridentata": {
+    "label": "墨西哥三齒拉瑞阿",
+    "aliases": [
+      "石炭酸灌木"
+    ],
+    "qid": "Q965954"
+  },
+  "Lagerstroemia indica": {
+    "label": "紫薇",
+    "aliases": [
+      "紫荆皮",
+      "百日红",
+      "无皮树",
+      "痒痒树",
+      "痒痒花",
+      "紫兰花",
+      "紫薇叶",
+      "紫薇根",
+      "紫薇皮",
+      "紫薇花",
+      "紫金花",
+      "蚊子花",
+      "西洋水杨梅",
+      "银薇",
+      "小花紫薇"
+    ],
+    "qid": "Q1148692"
+  },
+  "Mahonia aquifolium": {
+    "label": "俄勒岡十大功勞",
+    "aliases": [
+      "北美十大功劳",
+      "奧勒岡十大功勞",
+      "奧勒岡葡萄"
+    ],
+    "qid": "Q158303"
+  },
+  "Ligustrum japonicum": {
+    "label": "日本女貞",
+    "aliases": [
+      "日本毛女贞",
+      "苦茶叶"
+    ],
+    "qid": "Q1209219"
+  },
+  "Lilium speciosum": {
+    "label": "藥百合",
+    "aliases": [
+      "蕉芋",
+      "七夕百合",
+      "土用百合",
+      "洋紅百合",
+      "洋红百合",
+      "艳红百合",
+      "艳红鹿子百合",
+      "艷紅百合",
+      "艷紅鹿子百合",
+      "药百合",
+      "鹿子百合"
+    ],
+    "qid": "Q2107327"
+  },
+  "Hydrangea arborescens": {
+    "label": "樹狀八仙花",
+    "aliases": [
+      "乔木绣球",
+      "树状绣球",
+      "雪山八仙"
+    ],
+    "qid": "Q278173"
+  },
+  "Hoya kerrii": {
+    "label": "心葉毬蘭",
+    "aliases": [
+      "凹叶球兰"
+    ],
+    "qid": "Q292176"
+  },
+  "Iresine herbstii": {
+    "label": "洋莧",
+    "aliases": [
+      "红叶苋",
+      "红木耳",
+      "红洋苋",
+      "酒丹參"
+    ],
+    "qid": "Q310558"
+  },
+  "Lantana camara": {
+    "label": "馬櫻丹",
+    "aliases": [
+      "臭草",
+      "如意草",
+      "臭牡丹",
+      "七变花",
+      "五彩梅",
+      "五彩花",
+      "五色梅",
+      "五色梅叶",
+      "五色梅根",
+      "五龍蘭",
+      "如意花",
+      "马樱丹",
+      "馬纓丹"
+    ],
+    "qid": "Q332469"
+  },
+  "Lyonia": {
+    "label": "南燭屬",
+    "aliases": [
+      "南烛属"
+    ],
+    "qid": "Q2664959"
+  },
+  "Lilium": {
+    "label": "百合屬",
+    "aliases": [
+      "百合"
+    ],
+    "qid": "Q5194627"
+  },
+  "Howea belmoreana": {
+    "label": "富贵椰子",
+    "aliases": [
+      "缨络豪爵椰",
+      "荷威棕"
+    ],
+    "qid": "Q5456383"
+  },
+  "Hypoestes phyllostachya": {
+    "label": "舞點槍刀藥",
+    "aliases": [
+      "红点枪花药",
+      "红点草"
+    ],
+    "qid": "Q5959593"
+  },
+  "Incarvillea delavayi": {
+    "label": "紅波羅花",
+    "aliases": [
+      "土地黄",
+      "鸡肉参",
+      "波罗花",
+      "红花角蒿"
+    ],
+    "qid": "Q9008251"
+  },
+  "Hosta plantaginea": {
+    "label": "玉簪",
+    "aliases": [
+      "玉簪根",
+      "玉簪花"
+    ],
+    "qid": "Q11222293"
+  },
+  "Magnolia stellata": {
+    "label": "星花木蘭",
+    "aliases": [
+      "日本毛木兰",
+      "星花玉兰"
+    ],
+    "qid": "Q839507"
+  },
+  "Lathyrus latifolius": {
+    "label": "寛葉山黧豆",
+    "aliases": [],
+    "qid": "Q158325"
+  },
+  "Kalanchoe": {
+    "label": "伽藍菜屬",
+    "aliases": [],
+    "qid": "Q312063"
+  },
+  "Leucothoe": {
+    "label": "木藜蘆屬",
+    "aliases": [],
+    "qid": "Q1506945"
+  },
+  "Ligustrum vulgare": {
+    "label": "歐洲女貞",
+    "aliases": [],
+    "qid": "Q1848856"
+  },
+  "Kaempferia": {
+    "label": "山柰屬",
+    "aliases": [],
+    "qid": "Q2699485"
+  },
+  "Lycopersicon": {
+    "label": "番茄屬",
+    "aliases": [],
+    "qid": "Q12339542"
+  },
+  "Lilium tigrinum": {
+    "label": "卷丹",
+    "aliases": [],
+    "qid": "Q24852807"
+  },
+  "Levisticum officinale": {
+    "label": "欧当归",
+    "aliases": [],
+    "qid": "Q27615"
+  },
+  "Hookera pulchella": null,
+  "Hosta plataginea": null,
+  "Hoya carnosa 'krinkle kurl'": null,
+  "Hoya publcalyx": null,
+  "Hypocyrta nummularia": null,
+  "Ixora coccinea": null,
+  "Ixora javanica": null,
+  "Jacaranda procera": null,
+  "Kalmia augustifolia": null,
+  "Kalmia latifolia": null,
+  "Kalmia poliifolia": null,
+  "Kohleria lindeniana": null,
+  "Lampranthus piquet": null,
+  "Lavendula angustifolia": null,
+  "Leucocrinum montanum": null,
+  "Leucospermum incisum": null,
+  "Lilium orientalis": null,
+  "Lilium umbellatum": null,
+  "Lithops naureeniae": null,
+  "Mammillaria fragilis": null,
+  "Origanum majorana": {
+    "label": "墨角蘭",
+    "aliases": [
+      "多節墨角蘭",
+      "甘牛至",
+      "甜墨角蘭",
+      "馬約蘭",
+      "馬約蘭草",
+      "馬鬱草",
+      "马郁兰"
+    ],
+    "qid": "Q22694"
+  },
+  "Petroselinum crispum": {
+    "label": "歐芹",
+    "aliases": [
+      "香芹",
+      "巴西利",
+      "和蘭芹",
+      "洋芫荽",
+      "洋香菜",
+      "荷蘭芹",
+      "野芹菜子"
+    ],
+    "qid": "Q25284"
+  },
+  "Ocimum basilicum": {
+    "label": "羅勒",
+    "aliases": [
+      "千层塔",
+      "金不换",
+      "香草",
+      "兰香",
+      "金不換",
+      "零陵香",
+      "荆芥",
+      "香荆芥",
+      "茹香",
+      "罗勒",
+      "香菜",
+      "鱼香",
+      "小叶薄荷",
+      "罗勒子",
+      "罗勒根",
+      "佩兰",
+      "香花子",
+      "七層塔",
+      "九层塔",
+      "九層塔",
+      "九層塔根",
+      "九重塔",
+      "光明子",
+      "光阴子",
+      "家佩兰",
+      "家薄荷",
+      "甜羅勒",
+      "省头草",
+      "矮糠",
+      "缠头花椒",
+      "羅勒子",
+      "翳子草",
+      "聖約瑟夫草",
+      "蒿黑",
+      "薄荷树",
+      "薰草",
+      "陵香",
+      "雜冷盤",
+      "香叶草",
+      "香草头",
+      "鸭香",
+      "灰羅勒"
+    ],
+    "qid": "Q38859"
+  },
+  "Morus": {
+    "label": "桑屬",
+    "aliases": [
+      "桑",
+      "桑白皮",
+      "吉道",
+      "桑樹"
+    ],
+    "qid": "Q44789"
+  },
+  "Philodendron": {
+    "label": "蔓綠絨屬",
+    "aliases": [
+      "蔓绿绒"
+    ],
+    "qid": "Q131880"
+  },
+  "Masdevallia": {
+    "label": "尾萼蘭屬",
+    "aliases": [
+      "细瓣兰属"
+    ],
+    "qid": "Q132700"
+  },
+  "Musa acuminata": {
+    "label": "香蕉",
+    "aliases": [
+      "野芭蕉",
+      "小果野芭蕉",
+      "尖蕉",
+      "木桂根雷",
+      "芭蕉花",
+      "阿加蕉"
+    ],
+    "qid": "Q132970"
+  },
+  "Melissa officinalis": {
+    "label": "香蜂花",
+    "aliases": [
+      "欧蜜蜂花",
+      "山檨叶泡花树"
+    ],
+    "qid": "Q148396"
+  },
+  "Nasturtium officinale": {
+    "label": "水芥菜",
+    "aliases": [
+      "水芹菜",
+      "水甕菜",
+      "水生菜",
+      "水田芥",
+      "水田芥菜",
+      "水芥",
+      "水蔊菜",
+      "洋菜干",
+      "豆瓣菜"
+    ],
+    "qid": "Q150452"
+  },
+  "Phalaenopsis": {
+    "label": "蝴蝶蘭屬",
+    "aliases": [
+      "蝴蝶兰",
+      "蝶兰属"
+    ],
+    "qid": "Q133897"
+  },
+  "Pelargonium": {
+    "label": "天竺葵屬",
+    "aliases": [
+      "天竺葵",
+      "洋葵"
+    ],
+    "qid": "Q146118"
+  },
+  "Nerium oleander": {
+    "label": "夾竹桃",
+    "aliases": [
+      "欧洲夹竹桃",
+      "歐洲夾竹桃",
+      "洋夾竹桃"
+    ],
+    "qid": "Q155833"
+  },
+  "Mentha": {
+    "label": "薄荷屬",
+    "aliases": [
+      "薄荷"
+    ],
+    "qid": "Q47859"
+  },
+  "Phlox subulata": {
+    "label": "欉生福禄考",
+    "aliases": [
+      "二裂天蓝绣球",
+      "针叶天蓝绣球"
+    ],
+    "qid": "Q1045366"
+  },
+  "Nandina domestica": {
+    "label": "南天竹",
+    "aliases": [
+      "南天竹子",
+      "南天竺",
+      "天竺子",
+      "富貴子",
+      "蓝田竹"
+    ],
+    "qid": "Q1153858"
+  },
+  "Narcissus jonquilla": {
+    "label": "长寿水仙",
+    "aliases": [
+      "长寿花",
+      "丁香水仙",
+      "灯心草水仙",
+      "长寿花 (水仙属)"
+    ],
+    "qid": "Q1703489"
+  },
+  "Neoregelia spectabilis": {
+    "label": "端紅鳳梨",
+    "aliases": [
+      "端红凤梨",
+      "西洋万年青"
+    ],
+    "qid": "Q3338222"
+  },
+  "Peperomia obtusifolia": {
+    "label": "圓葉椒草",
+    "aliases": [
+      "花叶豆瓣绿"
+    ],
+    "qid": "Q7166271"
+  },
+  "Peperomia argyreia": {
+    "label": "西瓜皮椒草",
+    "aliases": [
+      "无茎豆瓣绿",
+      "西瓜皮豆瓣绿"
+    ],
+    "qid": "Q11167712"
+  },
+  "Philodendron selloum": {
+    "label": "羽裂蔓綠絨",
+    "aliases": [
+      "羽裂喜林芋"
+    ],
+    "qid": "Q50847286"
+  },
+  "Oleaceae": {
+    "label": "木樨科",
+    "aliases": [
+      "木犀科"
+    ],
+    "qid": "Q155966"
+  },
+  "Oxalis": {
+    "label": "酢漿草屬",
+    "aliases": [
+      "酢漿草",
+      "酢酱草",
+      "酢醬草",
+      "酢醬草屬"
+    ],
+    "qid": "Q157378"
+  },
+  "Petunia": {
+    "label": "碧冬茄屬",
+    "aliases": [
+      "矮牽牛",
+      "矮牽牛屬",
+      "碧冬茄属"
+    ],
+    "qid": "Q161103"
+  },
+  "Opuntia": {
+    "label": "仙人掌屬",
+    "aliases": [],
+    "qid": "Q158991"
+  },
+  "Oncidium flexuosum": {
+    "label": "文心蘭",
+    "aliases": [],
+    "qid": "Q739370"
+  },
+  "Nicotiana glauca": {
+    "label": "光烟草",
+    "aliases": [],
+    "qid": "Q882908"
+  },
+  "Oxytropis": {
+    "label": "棘豆屬",
+    "aliases": [],
+    "qid": "Q1424322"
+  },
+  "Nephrolepis biserrata": {
+    "label": "長葉腎蕨",
+    "aliases": [],
+    "qid": "Q5875385"
+  },
+  "Odontoglossum crispum": {
+    "label": "瘤瓣蘭",
+    "aliases": [],
+    "qid": "Q7077954"
+  },
+  "Peperomia caperata": {
+    "label": "皺葉椒草",
+    "aliases": [],
+    "qid": "Q7166267"
+  },
+  "Peperomia sandersii": {
+    "label": "西瓜皮椒草",
+    "aliases": [],
+    "qid": "Q15248654"
+  },
+  "Maranta insignis": null,
+  "Miltonia roezlii alba": null,
+  "Muscari armeniacum": null,
+  "NONE LISTED": null,
+  "Neoregalia": null,
+  "Nephrolepis exalta": null,
+  "Nephrolepis exalta bostoniensis": null,
+  "Nephrolepsis cordifolia 'duffii'": null,
+  "Nephrolepsis cordifolia plumosa": null,
+  "Nephrolepsis exalta": null,
+  "Nolina tuberculata": null,
+  "Odontoglossum pulchellum": null,
+  "Oncidium sphacelatum": null,
+  "Onychium japonica": null,
+  "Origanum vulgare hirtum": null,
+  "Paeonis officinalis": null,
+  "Pellaea rotundifolia": null,
+  "Pellionia daveauana": null,
+  "Pellonia pulchra": null,
+  "Peperomia clusiifolia": null,
+  "Peperomia crassifolia": null,
+  "Peperomia griseoargentea": null,
+  "Peperomia peltifolia": null,
+  "Peperomia prostata": null,
+  "Peperomia rotundifolia": null,
+  "Peperomia serpens variegata": null,
+  "Philodendron bipennifolium": null,
+  "Philodendron hederaceum": null,
+  "Philodendron oxycardium": null,
+  "Schefflera": {
+    "label": "南鵝掌柴屬",
+    "aliases": [
+      "鹅掌柴属"
+    ],
+    "qid": "Q133351"
+  },
+  "Prunus domestica": {
+    "label": "歐洲李",
+    "aliases": [
+      "洋李",
+      "西洋李",
+      "苦杏仁"
+    ],
+    "qid": "Q44120"
+  },
+  "Prunus persica": {
+    "label": "桃",
+    "aliases": [
+      "桃子",
+      "碧桃",
+      "陶古日"
+    ],
+    "qid": "Q13189"
+  },
+  "Phoenix canariensis": {
+    "label": "加拿列海棗",
+    "aliases": [
+      "加那利海枣"
+    ],
+    "qid": "Q27657"
+  },
+  "Satureja hortensis": {
+    "label": "夏香薄荷",
+    "aliases": [
+      "园圃塔花",
+      "夏季香薄荷"
+    ],
+    "qid": "Q157283"
+  },
+  "Ranunculus acris": {
+    "label": "深山金鳳花",
+    "aliases": [
+      "五裂毛茛"
+    ],
+    "qid": "Q157563"
+  },
+  "Portulaca oleracea": {
+    "label": "馬齒莧",
+    "aliases": [
+      "五方草",
+      "五行草",
+      "五行菜",
+      "地马菜",
+      "狮岳菜",
+      "猪母菜",
+      "猪肥菜",
+      "瓜子菜",
+      "瓜米菜",
+      "瓠子菜",
+      "蚂蚁菜",
+      "蚂蚱菜",
+      "豬娘莧",
+      "酸苋",
+      "酸菜",
+      "长命菜",
+      "长寿菜",
+      "马苋",
+      "马苋菜",
+      "马蛇子菜",
+      "马齿草",
+      "马齿菜",
+      "麻绳菜"
+    ],
+    "qid": "Q158015"
+  },
+  "Primula vulgaris": {
+    "label": "普通報春花",
+    "aliases": [
+      "西洋报春",
+      "西洋樱草花"
+    ],
+    "qid": "Q159537"
+  },
+  "Pittosporum tobira": {
+    "label": "海桐",
+    "aliases": [],
+    "qid": "Q161375"
+  },
+  "Prunus avium": {
+    "label": "甜櫻桃",
+    "aliases": [
+      "欧洲樱桃",
+      "欧洲甜樱桃"
+    ],
+    "qid": "Q165137"
+  },
+  "Prunus": {
+    "label": "李屬",
+    "aliases": [
+      "樱属",
+      "桃属",
+      "杏属",
+      "桂樱属",
+      "桃屬",
+      "梅屬",
+      "樱桃属",
+      "櫻桃屬",
+      "臭樱属",
+      "臭櫻屬"
+    ],
+    "qid": "Q190545"
+  },
+  "Schlumbergera russelliana": {
+    "label": "野仙人指",
+    "aliases": [
+      "钝齿蟹爪"
+    ],
+    "qid": "Q309874"
+  },
+  "Pinus ponderosa": {
+    "label": "西黃松",
+    "aliases": [
+      "美国长三叶松",
+      "美国黄松"
+    ],
+    "qid": "Q460523"
+  },
+  "Ravenea rivularis": {
+    "label": "國王椰子",
+    "aliases": [
+      "国王椰",
+      "河岸雷文葵"
+    ],
+    "qid": "Q623263"
+  },
+  "Salvia coccinea": {
+    "label": "紅花鼠尾草",
+    "aliases": [
+      "小红花",
+      "朱唇"
+    ],
+    "qid": "Q1023573"
+  },
+  "Salvia officinalis": {
+    "label": "鼠尾草",
+    "aliases": [
+      "丹参",
+      "庭園鼠尾草",
+      "廚房鼠尾草",
+      "撒尔维亚",
+      "撒爾維亞",
+      "药用鼠尾草",
+      "药鼠尾草",
+      "藥用鼠尾草",
+      "達爾馬希亞鼠尾草"
+    ],
+    "qid": "Q1111359"
+  },
+  "Phyllostachys aurea": {
+    "label": "布袋竹",
+    "aliases": [
+      "人面竹",
+      "臺灣人面竹",
+      "薑竹",
+      "虎山竹",
+      "鼓槌竹"
+    ],
+    "qid": "Q1536008"
+  },
+  "Pilea microphylla": {
+    "label": "小葉冷水麻",
+    "aliases": [
+      "小叶冷水麻",
+      "透明草"
+    ],
+    "qid": "Q3023762"
+  },
+  "Phoenix acaulis": {
+    "label": "无茎刺葵",
+    "aliases": [
+      "印度海枣",
+      "无茎海枣"
+    ],
+    "qid": "Q7187026"
+  },
+  "Pleiospilos bolusii": {
+    "label": "對葉花",
+    "aliases": [
+      "凤卵"
+    ],
+    "qid": "Q7204479"
+  },
+  "Polyscias guilfoylei": {
+    "label": "福祿桐",
+    "aliases": [
+      "南洋参"
+    ],
+    "qid": "Q7226925"
+  },
+  "Saintpaulia": {
+    "label": "非洲堇屬",
+    "aliases": [
+      "非洲紫罗兰属"
+    ],
+    "qid": "Q7233959"
+  },
+  "Scindapsus aureus": {
+    "label": "緑蘿",
+    "aliases": [
+      "藤芋"
+    ],
+    "qid": "Q10368906"
+  },
+  "Rosmarinus officinalis": {
+    "label": "迷迭香",
+    "aliases": [],
+    "qid": "Q122679"
+  },
+  "Potentilla": {
+    "label": "委陵菜屬",
+    "aliases": [],
+    "qid": "Q156512"
+  },
+  "Rumex": {
+    "label": "酸模屬",
+    "aliases": [],
+    "qid": "Q157264"
+  },
+  "Robinia": {
+    "label": "刺槐屬",
+    "aliases": [],
+    "qid": "Q472943"
+  },
+  "Pilea nummulariifolia": {
+    "label": "古錢冷水花",
+    "aliases": [],
+    "qid": "Q646721"
+  },
+  "Pilea pumila": {
+    "label": "透莖冷水麻",
+    "aliases": [],
+    "qid": "Q1023681"
+  },
+  "Sanvitalia": {
+    "label": "蛇目菊屬",
+    "aliases": [],
+    "qid": "Q1638845"
+  },
+  "Platycerium bifurcatum": {
+    "label": "鹿角蕨",
+    "aliases": [],
+    "qid": "Q2170121"
+  },
+  "Pteris": {
+    "label": "凤尾蕨属",
+    "aliases": [],
+    "qid": "Q2451124"
+  },
+  "Pilea involucrata": {
+    "label": "巴拿馬冷水花",
+    "aliases": [],
+    "qid": "Q3388414"
+  },
+  "Platycerium alcicorne": {
+    "label": "圓盾鹿角蕨",
+    "aliases": [],
+    "qid": "Q4364577"
+  },
+  "Schlumbergera bridgesii": {
+    "label": "仙人指",
+    "aliases": [],
+    "qid": "Q15346471"
+  },
+  "Rosa": {
+    "label": "薔薇屬",
+    "aliases": [],
+    "qid": "Q34687"
+  },
+  "Salix purpurea": {
+    "label": "紫紅柳",
+    "aliases": [],
+    "qid": "Q39708"
+  },
+  "Phoenix robellinii": null,
+  "Phoradendron flavescens": null,
+  "Pilea cadieri": null,
+  "Plantanus occidentalis": null,
+  "Plectranthus australis": null,
+  "Plectranthus coleoides": null,
+  "Plectranthus oetendahlii": null,
+  "Ploystichum munitum": null,
+  "Polyrrhiza lindenii": null,
+  "Polystichum acrostichoides": null,
+  "Poterium sanguisorba": null,
+  "Prosopis limensis": null,
+  "Rhapis flabelliformis": null,
+  "Rhapis flabelliformus": null,
+  "Rheum rhabarbarium": null,
+  "Rhipsalis cassutha": null,
+  "Rubus pedatus": null,
+  "Rumex scutatus": null,
+  "Saintpaulia confusa": null,
+  "Santpaulia confusa": null,
+  "Schefflera or Brassia actinoplylla": null,
+  "Scindapsus pictus": null,
+  "Scindapsus, Philodendron": null,
+  "Tulipa": {
+    "label": "鬱金香屬",
+    "aliases": [
+      "鬱金香"
+    ],
+    "qid": "Q93201"
+  },
+  "Thymus vulgaris": {
+    "label": "普通百里香",
+    "aliases": [
+      "南欧百里香",
+      "花园百里香",
+      "英国百里香"
+    ],
+    "qid": "Q148668"
+  },
+  "Tropaeolum majus": {
+    "label": "金蓮花",
+    "aliases": [
+      "旱莲花",
+      "旱金莲",
+      "荷叶七"
+    ],
+    "qid": "Q156288"
+  },
+  "Trachycarpus fortunei": {
+    "label": "棕櫚",
+    "aliases": [
+      "栟榈",
+      "棕果",
+      "棕树",
+      "棕树心",
+      "棕櫚樹"
+    ],
+    "qid": "Q158383"
+  },
+  "Streptocarpus": {
+    "label": "海角櫻草屬",
+    "aliases": [
+      "堇兰属",
+      "扭果花属",
+      "海角樱草属"
+    ],
+    "qid": "Q159180"
+  },
+  "Zinnia": {
+    "label": "百日菊屬",
+    "aliases": [
+      "百日草属",
+      "百日菊属"
+    ],
+    "qid": "Q205106"
+  },
+  "Senecio": {
+    "label": "千里光屬",
+    "aliases": [
+      "千里木属"
+    ],
+    "qid": "Q209596"
+  },
+  "Sedum album": {
+    "label": "白景天",
+    "aliases": [
+      "玉米石",
+      "白弁庆草"
+    ],
+    "qid": "Q253636"
+  },
+  "Sinningia speciosa": {
+    "label": "大岩桐",
+    "aliases": [
+      "女王大岩桐"
+    ],
+    "qid": "Q163267"
+  },
+  "Tilia americana": {
+    "label": "美洲椴樹",
+    "aliases": [
+      "北美椴",
+      "美洲椴"
+    ],
+    "qid": "Q163981"
+  },
+  "Thevetia peruviana": {
+    "label": "黃花夾竹桃",
+    "aliases": [
+      "酒杯花",
+      "石山崖爬藤",
+      "柳木子",
+      "红酒杯花",
+      "黃酒杯花",
+      "黄花状元竹"
+    ],
+    "qid": "Q312147"
+  },
+  "Tsuga canadensis": {
+    "label": "加拿大铁杉",
+    "aliases": [
+      "东方铁杉",
+      "加拿大鐵杉"
+    ],
+    "qid": "Q1137143"
+  },
+  "Symplocarpus foetidus": {
+    "label": "臭菘",
+    "aliases": [
+      "臭菘叶",
+      "臭菘种子",
+      "黑瞎子白菜"
+    ],
+    "qid": "Q1195489"
+  },
+  "Trachelospermum jasminoides": {
+    "label": "絡石",
+    "aliases": [
+      "石血",
+      "白花藤",
+      "万字茉莉",
+      "石龙藤",
+      "络石藤",
+      "臺灣白花藤"
+    ],
+    "qid": "Q1207043"
+  },
+  "Solanum pseudocapsicum": {
+    "label": "珊瑚櫻",
+    "aliases": [
+      "玛瑙珠",
+      "冬珊瑚",
+      "櫻桃椒",
+      "玉珊瑚",
+      "玉珊瑚根",
+      "珊瑚樱",
+      "珊瑚豆",
+      "聖誕果"
+    ],
+    "qid": "Q1475749"
+  },
+  "Toxicodendron": {
+    "label": "漆屬",
+    "aliases": [
+      "漆属"
+    ],
+    "qid": "Q1777115"
+  },
+  "Stephanotis floribunda": {
+    "label": "蠟花黑鰻藤",
+    "aliases": [
+      "多花牛奶菜",
+      "多花耳药藤",
+      "耳药藤",
+      "非洲茉莉",
+      "马达加斯加茉莉"
+    ],
+    "qid": "Q1786657"
+  },
+  "Taxus brevifolia": {
+    "label": "短叶红豆杉",
+    "aliases": [
+      "太平洋紫杉",
+      "短葉紅豆杉",
+      "美国红豆杉"
+    ],
+    "qid": "Q2065540"
+  },
+  "Zamia pumila": {
+    "label": "南美蘇鐵",
+    "aliases": [
+      "瘤状泽米铁"
+    ],
+    "qid": "Q2252144"
+  },
+  "Viburnum lentago": {
+    "label": "細枝莢蒾",
+    "aliases": [
+      "梨叶荚蒾"
+    ],
+    "qid": "Q3321544"
+  },
+  "Smilax glabra": {
+    "label": "光滑菝葜",
+    "aliases": [
+      "土茯苓",
+      "光叶菝葜",
+      "冷飯藤",
+      "光菝葜",
+      "光葉菝葜",
+      "禹餘糧"
+    ],
+    "qid": "Q3658986"
+  },
+  "Stevia rebaudiana": {
+    "label": "甜菊",
+    "aliases": [
+      "甜叶菊",
+      "甜葉菊"
+    ],
+    "qid": "Q7213452"
+  },
+  "Selaginella kraussiana": {
+    "label": "小翠雲",
+    "aliases": [
+      "地柏"
+    ],
+    "qid": "Q7447419"
+  },
+  "Smilax rotundifolia": {
+    "label": "圓葉菝葜",
+    "aliases": [
+      "北美圓葉菝葜"
+    ],
+    "qid": "Q7544559"
+  },
+  "Solanum": {
+    "label": "茄屬",
+    "aliases": [],
+    "qid": "Q146555"
+  },
+  "Yucca": {
+    "label": "絲蘭屬",
+    "aliases": [],
+    "qid": "Q156317"
+  },
+  "Smilax": {
+    "label": "菝葜屬",
+    "aliases": [],
+    "qid": "Q165315"
+  },
+  "Taxus baccata": {
+    "label": "歐洲紅豆杉",
+    "aliases": [],
+    "qid": "Q179729"
+  },
+  "Wisteria": {
+    "label": "紫藤屬",
+    "aliases": [],
+    "qid": "Q261903"
+  },
+  "Tsuga": {
+    "label": "鐵杉屬",
+    "aliases": [],
+    "qid": "Q739430"
+  },
+  "Sophronitis": {
+    "label": "贞兰属",
+    "aliases": [],
+    "qid": "Q2046770"
+  },
+  "Stewartia ovata": {
+    "label": "山紫茎",
+    "aliases": [],
+    "qid": "Q7615995"
+  },
+  "Stapelia variegata": {
+    "label": "雜色豹皮花",
+    "aliases": [],
+    "qid": "Q21877530"
+  },
+  "Vinca rosea": {
+    "label": "日日春",
+    "aliases": [],
+    "qid": "Q38444945"
+  },
+  "Taxus": {
+    "label": "紅豆杉屬",
+    "aliases": [],
+    "qid": "Q27355"
+  },
+  "Secum weinbergii": null,
+  "Sedum morganianum": null,
+  "Sedum weinbergii": null,
+  "Silene acaulis": null,
+  "Smilax glauca": null,
+  "Smilax herbacea": null,
+  "Smilax hispida": null,
+  "Smilax lanceolata": null,
+  "Smilax laurifolia": null,
+  "Smilax walteria": null,
+  "Soleirolia soleirolii": null,
+  "Sorghum vulgare var sudanesis": null,
+  "Sphenosciadium capitellatum": null,
+  "Stapelia hirsata": null,
+  "Tolmeia menziesii": null,
+  "Townsendia sericea": null,
+  "Tradescantia flumeninsis": null,
+  "Tsuga caroliniana": null,
+  "Vallota speciosa": null,
+  "Veitchia merillii": null,
+  "Veitchia merrillii": null,
+  "Zephyranthes drummondii": null,
+  "elaeagnus": null,
+  "helianthus angustifolius": null,
+  "tradescantia multiflora": null
+}

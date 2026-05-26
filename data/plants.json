@@ -1,0 +1,506 @@
+[
+  {
+    "id": "epipremnum-aureum",
+    "commonNameZh": "黃金葛",
+    "commonNameEn": "Pothos",
+    "scientificName": "Epipremnum aureum",
+    "family": "Araceae",
+    "aliasesZh": [
+      "綠蘿",
+      "魔鬼藤"
+    ],
+    "aliasesEn": [
+      "Golden Pothos",
+      "Devil's Ivy",
+      "Taro Vine"
+    ],
+    "catToxicity": "toxic",
+    "catToxicityNote": "ASPCA 列為對貓有毒。",
+    "symptoms": "口腔刺激、嘔吐、吞嚥困難等。",
+    "care": "明亮散射光到半陰皆可，土表乾後再澆水。",
+    "sourceName": "ASPCA Pothos",
+    "sourceUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pothos"
+  },
+  {
+    "id": "aloe-vera",
+    "commonNameZh": "蘆薈",
+    "commonNameEn": "Aloe",
+    "scientificName": "Aloe vera",
+    "family": "Liliaceae",
+    "aliasesZh": [
+      "庫拉索蘆薈"
+    ],
+    "aliasesEn": [
+      "True Aloe",
+      "Medicine Plant"
+    ],
+    "catToxicity": "toxic",
+    "catToxicityNote": "ASPCA 列為對貓有毒。",
+    "symptoms": "嘔吐、嗜睡、腹瀉等。",
+    "care": "需要明亮光線，介質完全乾燥後再澆透。",
+    "sourceName": "ASPCA Aloe",
+    "sourceUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/aloe"
+  },
+  {
+    "id": "chlorophytum-comosum",
+    "commonNameZh": "吊蘭",
+    "commonNameEn": "Spider Plant",
+    "scientificName": "Chlorophytum comosum",
+    "family": "Liliaceae",
+    "aliasesZh": [
+      "蜘蛛草"
+    ],
+    "aliasesEn": [
+      "Ribbon Plant",
+      "Airplane Plant"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "ASPCA 列為對貓無毒。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "明亮散射光，土表乾燥後澆水，避免長期積水。",
+    "sourceName": "ASPCA Spider Plant",
+    "sourceUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/spider-plant"
+  },
+  {
+    "id": "nephrolepis-exaltata",
+    "commonNameZh": "波士頓腎蕨",
+    "commonNameEn": "Boston Fern",
+    "scientificName": "Nephrolepis exaltata",
+    "family": "Dryopteridaceae",
+    "aliasesZh": [
+      "波士頓蕨"
+    ],
+    "aliasesEn": [
+      "Sword Fern"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "ASPCA 列為對貓無毒。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "喜歡明亮散射光與較高濕度，保持介質微濕。",
+    "sourceName": "ASPCA Boston Fern",
+    "sourceUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/boston-fern"
+  },
+  {
+    "id": "spathiphyllum",
+    "commonNameZh": "白鶴芋",
+    "commonNameEn": "Peace Lily",
+    "scientificName": "Spathiphyllum",
+    "family": "Araceae",
+    "aliasesZh": [
+      "和平百合",
+      "白掌"
+    ],
+    "aliasesEn": [
+      "Mauna Loa Peace Lily"
+    ],
+    "catToxicity": "toxic",
+    "catToxicityNote": "ASPCA 列為對貓有毒。",
+    "symptoms": "口腔刺激、流口水、嘔吐、吞嚥困難等。",
+    "care": "明亮散射光，介質略乾再澆水，避免烈日直射。",
+    "sourceName": "ASPCA Peace Lily",
+    "sourceUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/peace-lily"
+  },
+  {
+    "id": "monstera-deliciosa",
+    "commonNameZh": "龜背芋",
+    "commonNameEn": "Ceriman",
+    "scientificName": "Monstera deliciosa",
+    "family": "Araceae",
+    "aliasesZh": [
+      "電信蘭",
+      "蓬萊蕉"
+    ],
+    "aliasesEn": [
+      "Swiss Cheese Plant",
+      "Cutleaf Philodendron"
+    ],
+    "catToxicity": "toxic",
+    "catToxicityNote": "ASPCA 列為對貓有毒。",
+    "symptoms": "口腔刺激、嘔吐、吞嚥困難等。",
+    "care": "明亮散射光，土表乾後澆水，提供攀爬支撐可長更穩。",
+    "sourceName": "ASPCA Ceriman",
+    "sourceUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/ceriman"
+  },
+  {
+    "id": "phalaenopsis",
+    "commonNameZh": "蝴蝶蘭",
+    "commonNameEn": "Moth Orchid",
+    "scientificName": "Phalaenopsis sp.",
+    "family": "Orchidaceae",
+    "aliasesZh": [
+      "蘭花"
+    ],
+    "aliasesEn": [
+      "Orchid"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "ASPCA 列為對貓無毒。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "明亮散射光，水苔或樹皮略乾再補水，避免盆底積水。",
+    "sourceName": "ASPCA Moth Orchid",
+    "sourceUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/moth-orchid"
+  },
+  {
+    "id": "sansevieria-trifasciata",
+    "commonNameZh": "虎尾蘭",
+    "commonNameEn": "Snake Plant",
+    "scientificName": "Sansevieria trifasciata",
+    "family": "Agavaceae",
+    "aliasesZh": [
+      "虎皮蘭"
+    ],
+    "aliasesEn": [
+      "Mother-in-Law's Tongue"
+    ],
+    "catToxicity": "toxic",
+    "catToxicityNote": "ASPCA 列為對貓有毒。",
+    "symptoms": "噁心、嘔吐、腹瀉等。",
+    "care": "耐陰耐旱，介質完全乾燥後再澆水。",
+    "sourceName": "ASPCA Snake Plant",
+    "sourceUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/snake-plant"
+  },
+  {
+    "id": "pachira-aquatica",
+    "commonNameZh": "馬拉巴栗",
+    "commonNameEn": "Money Tree",
+    "scientificName": "Pachira aquatica",
+    "family": "Malvaceae",
+    "aliasesZh": [
+      "發財樹"
+    ],
+    "aliasesEn": [
+      "Guiana Chestnut"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "ASPCA 常見清單未列為主要貓毒植物；本原型暫列低風險，需再補正式來源。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "明亮散射光，土表乾後澆水，避免過度澆水造成爛根。",
+    "sourceName": "CliniTox / 待補正式頁面",
+    "sourceUrl": "https://www.vpt.uzh.ch/en/services/database.html"
+  },
+  {
+    "id": "calathea",
+    "commonNameZh": "竹芋",
+    "commonNameEn": "Calathea",
+    "scientificName": "Calathea spp.",
+    "family": "Marantaceae",
+    "aliasesZh": [
+      "孔雀竹芋"
+    ],
+    "aliasesEn": [
+      "Prayer Plant",
+      "Peacock Plant"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "ASPCA 列為對貓無毒。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "明亮散射光，喜較高濕度，介質保持微濕但不積水。",
+    "sourceName": "ASPCA Peacock Plant",
+    "sourceUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/peacock-plant"
+  },
+  {
+    "id": "crassula-argentea",
+    "commonNameZh": "玉樹",
+    "commonNameEn": "Jade Plant",
+    "scientificName": "Crassula argentea",
+    "family": "Crassulaceae",
+    "aliasesZh": [
+      "翡翠木"
+    ],
+    "aliasesEn": [
+      "Baby Jade",
+      "Dwarf Rubber Plant"
+    ],
+    "catToxicity": "toxic",
+    "catToxicityNote": "ASPCA 列為對貓有毒。",
+    "symptoms": "嘔吐、精神不振、協調不良等。",
+    "care": "需要明亮光線，介質乾透後再澆水。",
+    "sourceName": "ASPCA Jade Plant",
+    "sourceUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant"
+  },
+  {
+    "id": "lilium",
+    "commonNameZh": "百合",
+    "commonNameEn": "Lily",
+    "scientificName": "Lilium spp.",
+    "family": "Liliaceae",
+    "aliasesZh": [
+      "真百合"
+    ],
+    "aliasesEn": [
+      "Easter Lily",
+      "Tiger Lily",
+      "Asiatic Lily"
+    ],
+    "catToxicity": "toxic",
+    "catToxicityNote": "ASPCA 列為對貓有毒，百合類對貓風險特別高。",
+    "symptoms": "嘔吐、食慾下降、嗜睡，可能造成嚴重腎臟風險。",
+    "care": "若家中有貓，不建議放置可接觸的百合。",
+    "sourceName": "ASPCA Lily",
+    "sourceUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lily"
+  },
+  {
+    "id": "tillandsia",
+    "commonNameZh": "空氣鳳梨",
+    "commonNameEn": "Air Plant",
+    "scientificName": "Tillandsia spp.",
+    "family": "Bromeliaceae",
+    "aliasesZh": [
+      "鐵蘭屬",
+      "空鳳"
+    ],
+    "aliasesEn": [
+      "Tillandsia"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "ASPCA 貓用清單未收錄 Tillandsia；其他植物風險資料常列為對貓低風險或無毒。大量啃咬仍可能造成腸胃不適。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "明亮散射光，保持通風，每週浸水或噴水後徹底甩乾，避免葉心長期積水。",
+    "sourceName": "Plant Pono Tillandsia ionantha",
+    "sourceUrl": "https://plantpono.org/wp-content/uploads/Tillandsia-ionantha.pdf"
+  },
+  {
+    "id": "freesia",
+    "commonNameZh": "小蒼蘭",
+    "commonNameEn": "Freesia",
+    "scientificName": "Freesia spp.",
+    "family": "Iridaceae",
+    "aliasesZh": [
+      "香雪蘭"
+    ],
+    "aliasesEn": [
+      "Freesia"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "ASPCA 貓用清單未收錄本筆快取；多個寵物安全花材資料列為對貓低風險或無毒。大量啃咬仍可能造成腸胃不適。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "切花需保持瓶水清潔；盆植喜涼爽明亮環境，介質排水需良好。",
+    "sourceName": "Betterpet Pet-friendly Flowers",
+    "sourceUrl": "https://www.betterpet.com/learn/pet-friendly-flowers"
+  },
+  {
+    "id": "limonium-sinuatum",
+    "commonNameZh": "星辰花",
+    "commonNameEn": "Statice",
+    "scientificName": "Limonium sinuatum",
+    "family": "Plumbaginaceae",
+    "aliasesZh": [
+      "勿忘我",
+      "補血草"
+    ],
+    "aliasesEn": [
+      "Sea Lavender",
+      "Statice"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "ASPCA 貓用清單未收錄本筆快取；常見花材安全資料多列為對貓低風險或無毒。大量啃咬仍可能造成腸胃不適。",
+    "symptoms": "通常未列出特定毒性症狀；切花染色、保鮮劑或農藥殘留仍需避免接觸。",
+    "care": "切花耐放，也可乾燥保存；盆植需充足日照與排水良好介質。",
+    "sourceName": "ASPCA General Plant Safety Notice",
+    "sourceUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+  },
+  {
+    "id": "eustoma-grandiflorum",
+    "commonNameZh": "洋桔梗",
+    "commonNameEn": "Lisianthus",
+    "scientificName": "Eustoma grandiflorum",
+    "family": "Gentianaceae",
+    "aliasesZh": [
+      "土耳其桔梗"
+    ],
+    "aliasesEn": [
+      "Prairie Gentian",
+      "Texas Bluebell"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "ASPCA 貓用清單未收錄本筆快取；Plant Pono 評估為低風險。大量啃咬仍可能造成腸胃不適。",
+    "symptoms": "通常未列出特定毒性症狀；若誤食後精神差或持續嘔吐，請諮詢獸醫。",
+    "care": "切花需保持瓶水清潔；盆植喜明亮光線、通風與排水良好介質。",
+    "sourceName": "Plant Pono Eustoma grandiflorum",
+    "sourceUrl": "https://plantpono.org/wp-content/uploads/Eustoma-grandiflorum.pdf"
+  },
+  {
+    "id": "triticum-aestivum",
+    "commonNameZh": "小麥草",
+    "commonNameEn": "Wheat Grass",
+    "scientificName": "Triticum aestivum",
+    "family": "Poaceae",
+    "aliasesZh": [
+      "貓草",
+      "小麥"
+    ],
+    "aliasesEn": [
+      "Cat Grass",
+      "Wheatgrass"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "常見貓草種類之一，通常視為貓可啃咬的低風險植物。過量食用仍可能嘔吐。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "明亮散射光，保持介質微濕，長到約 8 至 12 公分即可提供啃咬。",
+    "sourceName": "Cat Grass Guide",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cat_grass"
+  },
+  {
+    "id": "medicago-sativa",
+    "commonNameZh": "苜蓿",
+    "commonNameEn": "Alfalfa",
+    "scientificName": "Medicago sativa",
+    "family": "Fabaceae",
+    "aliasesZh": [
+      "紫花苜蓿"
+    ],
+    "aliasesEn": [
+      "Lucerne"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "ASPCA 貓用清單未收錄本筆快取；作為幼苗或少量植物材料通常視為低風險。大量食用仍可能造成腸胃不適。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "發芽苗需通風並避免發霉；提供貓啃咬時應少量、乾淨且新鮮。",
+    "sourceName": "ASPCA General Plant Safety Notice",
+    "sourceUrl": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+  },
+  {
+    "id": "secale-cereale",
+    "commonNameZh": "黑麥草",
+    "commonNameEn": "Rye Grass",
+    "scientificName": "Secale cereale",
+    "family": "Poaceae",
+    "aliasesZh": [
+      "黑麥",
+      "貓草"
+    ],
+    "aliasesEn": [
+      "Rye",
+      "Cat Grass"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "常見貓草種類之一，通常視為貓可啃咬的低風險植物。過量食用仍可能嘔吐。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "明亮散射光，保持介質微濕，避免發霉。",
+    "sourceName": "Cat Grass Guide",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cat_grass"
+  },
+  {
+    "id": "avena-sativa",
+    "commonNameZh": "燕麥草",
+    "commonNameEn": "Oat Grass",
+    "scientificName": "Avena sativa",
+    "family": "Poaceae",
+    "aliasesZh": [
+      "燕麥",
+      "貓草"
+    ],
+    "aliasesEn": [
+      "Oat",
+      "Cat Grass"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "常見貓草種類之一，通常視為貓可啃咬的低風險植物。過量食用仍可能嘔吐。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "明亮散射光，保持介質微濕，嫩葉期最適合提供啃咬。",
+    "sourceName": "Cat Grass Guide",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cat_grass"
+  },
+  {
+    "id": "hordeum-vulgare",
+    "commonNameZh": "大麥草",
+    "commonNameEn": "Barley Grass",
+    "scientificName": "Hordeum vulgare",
+    "family": "Poaceae",
+    "aliasesZh": [
+      "大麥",
+      "貓草"
+    ],
+    "aliasesEn": [
+      "Barley",
+      "Cat Grass"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "常見貓草種類之一，通常視為貓可啃咬的低風險植物。過量食用仍可能嘔吐。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "明亮散射光，保持介質微濕，避免發霉。",
+    "sourceName": "Cat Grass Guide",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cat_grass"
+  },
+  {
+    "id": "adiantum",
+    "commonNameZh": "鐵線蕨",
+    "commonNameEn": "Maidenhair Fern",
+    "scientificName": "Adiantum spp.",
+    "family": "Pteridaceae",
+    "aliasesZh": [
+      "鐵線蕨屬"
+    ],
+    "aliasesEn": [
+      "Adiantum"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "多個寵物植物安全資料引用 ASPCA，列為對貓無毒或低風險。大量啃咬仍可能造成腸胃不適。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "喜明亮散射光、高濕度與穩定微濕介質，避免乾燥與烈日。",
+    "sourceName": "Plant Compendium Maidenhair Fern",
+    "sourceUrl": "https://plantcompendium.com/pet-safety/maidenhair-fern/"
+  },
+  {
+    "id": "asplenium-nidus",
+    "commonNameZh": "鳥巢蕨",
+    "commonNameEn": "Bird's Nest Fern",
+    "scientificName": "Asplenium nidus",
+    "family": "Aspleniaceae",
+    "aliasesZh": [
+      "山蘇花",
+      "巢蕨"
+    ],
+    "aliasesEn": [
+      "Asplenium"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "多個室內植物資料列為對貓低風險或無毒。大量啃咬仍可能造成腸胃不適。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "喜明亮散射光與高濕度，澆水避免長期積在葉心。",
+    "sourceName": "PlantFinder Bird's Nest Fern",
+    "sourceUrl": "https://plantfinder.org/plants/birds-nest-fern/"
+  },
+  {
+    "id": "viola-tricolor",
+    "commonNameZh": "三色堇",
+    "commonNameEn": "Pansy",
+    "scientificName": "Viola tricolor",
+    "family": "Violaceae",
+    "aliasesZh": [
+      "野三色堇"
+    ],
+    "aliasesEn": [
+      "Wild Pansy",
+      "Heartsease",
+      "Johnny Jump Up"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "ASPCA 貓用清單未收錄本筆快取；園藝食用花與寵物安全資料通常視為低風險。大量啃咬仍可能造成腸胃不適。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "喜涼爽、明亮光線與排水良好介質，炎熱時較易衰弱。",
+    "sourceName": "NC State Extension Viola tricolor",
+    "sourceUrl": "https://plants.ces.ncsu.edu/plants/viola-tricolor/common-name/pansy/"
+  },
+  {
+    "id": "teucrium-marum",
+    "commonNameZh": "貓百里",
+    "commonNameEn": "Cat Thyme",
+    "scientificName": "Teucrium marum",
+    "family": "Lamiaceae",
+    "aliasesZh": [
+      "貓百里香",
+      "貓草百里香"
+    ],
+    "aliasesEn": [
+      "Cat Thyme",
+      "Marum"
+    ],
+    "catToxicity": "safe",
+    "catToxicityNote": "本地補充資料。Teucrium marum 俗稱 Cat Thyme，並非料理用百里香 Thymus vulgaris；本系統暫列為對貓低風險，仍建議避免大量啃食。",
+    "symptoms": "未列出特定毒性症狀。",
+    "care": "需要明亮光線與排水良好介質，介質乾後再澆透。",
+    "sourceName": "RHS Teucrium marum",
+    "sourceUrl": "https://www.rhs.org.uk/plants/18061/teucrium-marum-cat-thyme/details"
+  }
+]
