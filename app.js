@@ -271,10 +271,19 @@ function renderRecommendations() {
 
 function renderRecommendationCard(plant) {
   const node = elements.recommendationTemplate.content.firstElementChild.cloneNode(true);
-  node.querySelector("h3").textContent = `${plant.commonNameZh} / ${plant.commonNameEn}`;
-  node.querySelector(".scientific").textContent = plant.scientificName;
-  node.querySelector(".recommendation-summary").textContent = `${plant.placementType}，難度：${plant.difficulty}`;
-  node.querySelector(".recommendation-open").addEventListener("click", () => {
+  const image = node.querySelector("img");
+  const placeholder = node.querySelector(".recommendation-placeholder");
+  node.querySelector("strong").textContent = plant.commonNameZh;
+  node.querySelector("small").textContent = plant.commonNameEn;
+
+  if (plant.imageUrl) {
+    image.src = plant.imageUrl;
+    image.alt = plant.imageAlt || plant.commonNameZh;
+    image.hidden = false;
+    placeholder.hidden = true;
+  }
+
+  node.addEventListener("click", () => {
     openRecommendationModal(plant);
   });
   return node;
@@ -284,6 +293,12 @@ function openRecommendationModal(plant) {
   elements.modalTitle.textContent = `${plant.commonNameZh} / ${plant.commonNameEn}`;
   elements.modalSubtitle.textContent = plant.scientificName;
   elements.modalContent.innerHTML = `
+    ${plant.imageUrl ? `
+      <figure class="modal-figure">
+        <img src="${escapeHtml(plant.imageUrl)}" alt="${escapeHtml(plant.imageAlt || plant.commonNameZh)}">
+        <figcaption>${escapeHtml(imageCreditText(plant))}</figcaption>
+      </figure>
+    ` : ""}
     <p class="modal-safety">${escapeHtml(plant.catSafety)}</p>
     <dl class="recommendation-details">
       <div>
@@ -331,6 +346,11 @@ function openRecommendationModal(plant) {
   elements.recommendationModal.hidden = false;
   document.body.classList.add("modal-open");
   elements.modalClose.focus();
+}
+
+function imageCreditText(plant) {
+  const parts = [plant.imageCredit, plant.imageLicense].filter(Boolean);
+  return parts.length ? parts.join(" / ") : "圖片來源待補";
 }
 
 function closeRecommendationModal() {

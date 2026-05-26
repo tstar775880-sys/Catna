@@ -136,17 +136,16 @@
     </template>
 
     <template id="recommendation-template">
-      <article class="recommendation-card">
-        <div class="card-main">
-          <div>
-            <h3></h3>
-            <p class="scientific"></p>
-          </div>
-          <span class="status-pill status-safe">對貓低風險</span>
-        </div>
-        <p class="recommendation-summary"></p>
-        <button class="primary-button recommendation-open" type="button">查看養護資訊</button>
-      </article>
+      <button class="recommendation-card recommendation-open" type="button">
+        <span class="recommendation-photo">
+          <img alt="" hidden>
+          <span class="recommendation-placeholder">待補圖片</span>
+        </span>
+        <span class="recommendation-name">
+          <strong></strong>
+          <small></small>
+        </span>
+      </button>
     </template>
 
     <script src="app.js"></script>
